@@ -1,0 +1,5518 @@
+{
+ "root": "/opt/data/books/mirror/litra-books",
+ "count": 783,
+ "unreadable": [
+  "1251",
+  "1257",
+  "1259",
+  "1260",
+  "14140",
+  "17460",
+  "19725",
+  "21291",
+  "2554",
+  "2701",
+  "27600",
+  "3207",
+  "38326",
+  "4085",
+  "45304",
+  "4599",
+  "4705",
+  "49513",
+  "51428",
+  "5427",
+  "55201",
+  "57493",
+  "583",
+  "59131",
+  "6761",
+  "8117",
+  "82",
+  "917",
+  "940"
+ ],
+ "books": [
+  {
+   "id": "10002",
+   "title": "The House on the Borderland",
+   "author": "William Hope Hodgson",
+   "slug": "the-house-on-the-borderland",
+   "slug_author": "william-hope-hodgson"
+  },
+  {
+   "id": "10007",
+   "title": "Carmilla",
+   "author": "Joseph Sheridan Le Fanu",
+   "slug": "carmilla",
+   "slug_author": "joseph-sheridan-le-fanu"
+  },
+  {
+   "id": "10102",
+   "title": "The Czar's Spy: The Mystery of a Silent Love",
+   "author": "William Le Queux",
+   "slug": "the-czars-spy-the-mystery-of-a-silent-love",
+   "slug_author": "william-le-queux"
+  },
+  {
+   "id": "10148",
+   "title": "The Merry Adventures of Robin Hood",
+   "author": "Howard Pyle",
+   "slug": "the-merry-adventures-of-robin-hood",
+   "slug_author": "howard-pyle"
+  },
+  {
+   "id": "103",
+   "title": "Around the World in Eighty Days",
+   "author": "Jules Verne",
+   "slug": "around-the-world-in-eighty-days",
+   "slug_author": "jules-verne"
+  },
+  {
+   "id": "10441",
+   "title": "The Green Mouse",
+   "author": "Robert W. Chambers",
+   "slug": "the-green-mouse",
+   "slug_author": "robert-w-chambers"
+  },
+  {
+   "id": "105",
+   "title": "Persuasion",
+   "author": "Jane Austen",
+   "slug": "persuasion",
+   "slug_author": "jane-austen"
+  },
+  {
+   "id": "10615",
+   "title": "An Essay Concerning Humane Understanding, Volume 1 / MDCXC, Based on the 2nd Edition, Books 1 and 2",
+   "author": "John Locke",
+   "slug": "an-essay-concerning-humane-understanding-volume-1-mdcxc-base",
+   "slug_author": "john-locke"
+  },
+  {
+   "id": "10661",
+   "title": "A Selection from the Discourses of Epictetus with the Encheiridion",
+   "author": "Epictetus",
+   "slug": "a-selection-from-the-discourses-of-epictetus-with-the-enchei",
+   "slug_author": "epictetus"
+  },
+  {
+   "id": "1079",
+   "title": "The life and opinions of Tristram Shandy, gentleman",
+   "author": "Laurence Sterne",
+   "slug": "the-life-and-opinions-of-tristram-shandy-gentleman",
+   "slug_author": "laurence-sterne"
+  },
+  {
+   "id": "108",
+   "title": "The Return of Sherlock Holmes",
+   "author": "Arthur Conan Doyle",
+   "slug": "the-return-of-sherlock-holmes",
+   "slug_author": "arthur-conan-doyle"
+  },
+  {
+   "id": "10827",
+   "title": "Discourses on the First Decade of Titus Livius",
+   "author": "Niccol\u00f2 Machiavelli",
+   "slug": "discourses-on-the-first-decade-of-titus-livius",
+   "slug_author": "niccol-machiavelli"
+  },
+  {
+   "id": "11",
+   "title": "Alice's Adventures in Wonderland",
+   "author": "Lewis Carroll",
+   "slug": "alices-adventures-in-wonderland",
+   "slug_author": "lewis-carroll"
+  },
+  {
+   "id": "110",
+   "title": "Tess of the d'Urbervilles: A Pure Woman",
+   "author": "Thomas Hardy",
+   "slug": "tess-of-the-durbervilles-a-pure-woman",
+   "slug_author": "thomas-hardy"
+  },
+  {
+   "id": "11030",
+   "title": "Incidents in the Life of a Slave Girl, Written by Herself",
+   "author": "Harriet A. Jacobs",
+   "slug": "incidents-in-the-life-of-a-slave-girl-written-by-herself",
+   "slug_author": "harriet-a-jacobs"
+  },
+  {
+   "id": "11197",
+   "title": "Bambi",
+   "author": "Marjorie Benton Cooke",
+   "slug": "bambi",
+   "slug_author": "marjorie-benton-cooke"
+  },
+  {
+   "id": "11231",
+   "title": "Bartleby, the Scrivener: A Story of Wall-Street",
+   "author": "Herman Melville",
+   "slug": "bartleby-the-scrivener-a-story-of-wallstreet",
+   "slug_author": "herman-melville"
+  },
+  {
+   "id": "113",
+   "title": "The Secret Garden",
+   "author": "Frances Hodgson Burnett",
+   "slug": "the-secret-garden",
+   "slug_author": "frances-hodgson-burnett"
+  },
+  {
+   "id": "11339",
+   "title": "Aesop's Fables; a new translation",
+   "author": "Aesop",
+   "slug": "aesops-fables-a-new-translation",
+   "slug_author": "aesop"
+  },
+  {
+   "id": "1153",
+   "title": "The Chessmen of Mars",
+   "author": "Edgar Rice Burroughs",
+   "slug": "the-chessmen-of-mars",
+   "slug_author": "edgar-rice-burroughs"
+  },
+  {
+   "id": "1155",
+   "title": "The Secret Adversary",
+   "author": "Agatha Christie",
+   "slug": "the-secret-adversary",
+   "slug_author": "agatha-christie"
+  },
+  {
+   "id": "1170",
+   "title": "Anabasis",
+   "author": "Xenophon",
+   "slug": "anabasis",
+   "slug_author": "xenophon"
+  },
+  {
+   "id": "11987",
+   "title": "By Advice of Counsel",
+   "author": "Arthur Cheney Train",
+   "slug": "by-advice-of-counsel",
+   "slug_author": "arthur-cheney-train"
+  },
+  {
+   "id": "12",
+   "title": "Through the Looking-Glass",
+   "author": "Lewis Carroll",
+   "slug": "through-the-lookingglass",
+   "slug_author": "lewis-carroll"
+  },
+  {
+   "id": "120",
+   "title": "Treasure Island",
+   "author": "Robert Louis Stevenson",
+   "slug": "treasure-island",
+   "slug_author": "robert-louis-stevenson"
+  },
+  {
+   "id": "121",
+   "title": "Northanger Abbey",
+   "author": "Jane Austen",
+   "slug": "northanger-abbey",
+   "slug_author": "jane-austen"
+  },
+  {
+   "id": "1232",
+   "title": "The Prince",
+   "author": "Niccol\u00f2 Machiavelli",
+   "slug": "the-prince",
+   "slug_author": "niccol-machiavelli"
+  },
+  {
+   "id": "12345",
+   "title": "Friday, the Thirteenth: A Novel",
+   "author": "Thomas William Lawson",
+   "slug": "friday-the-thirteenth-a-novel",
+   "slug_author": "thomas-william-lawson"
+  },
+  {
+   "id": "1250",
+   "title": "Anthem",
+   "author": "Ayn Rand",
+   "slug": "anthem",
+   "slug_author": "ayn-rand"
+  },
+  {
+   "id": "1268",
+   "title": "The Mysterious Island",
+   "author": "Jules Verne",
+   "slug": "the-mysterious-island",
+   "slug_author": "jules-verne"
+  },
+  {
+   "id": "12811",
+   "title": "The Human Machine",
+   "author": "Arnold Bennett",
+   "slug": "the-human-machine",
+   "slug_author": "arnold-bennett"
+  },
+  {
+   "id": "131",
+   "title": "The Pilgrim's Progress from this world to that which is to come / Delivered under the similitude of a dream, by John Bunyan",
+   "author": "John Bunyan",
+   "slug": "the-pilgrims-progress-from-this-world-to-that-which-is-to-co",
+   "slug_author": "john-bunyan"
+  },
+  {
+   "id": "13160",
+   "title": "An Iron Will",
+   "author": "Orison Swett Marden",
+   "slug": "an-iron-will",
+   "slug_author": "orison-swett-marden"
+  },
+  {
+   "id": "132",
+   "title": "The Art of War",
+   "author": "active 6th century B.C. Sunzi",
+   "slug": "the-art-of-war",
+   "slug_author": "active-6th-century-bc-sunzi"
+  },
+  {
+   "id": "1342",
+   "title": "Pride and Prejudice",
+   "author": "Jane Austen",
+   "slug": "pride-and-prejudice",
+   "slug_author": "jane-austen"
+  },
+  {
+   "id": "1353",
+   "title": "Off on a Comet! a Journey through Planetary Space",
+   "author": "Jules Verne",
+   "slug": "off-on-a-comet-a-journey-through-planetary-space",
+   "slug_author": "jules-verne"
+  },
+  {
+   "id": "139",
+   "title": "The Lost World",
+   "author": "Arthur Conan Doyle",
+   "slug": "the-lost-world",
+   "slug_author": "arthur-conan-doyle"
+  },
+  {
+   "id": "1400",
+   "title": "Great Expectations",
+   "author": "Charles Dickens",
+   "slug": "great-expectations",
+   "slug_author": "charles-dickens"
+  },
+  {
+   "id": "14033",
+   "title": "Plutarch's Lives, Volume 1 (of 4)",
+   "author": "Plutarch",
+   "slug": "plutarchs-lives-volume-1-of-4",
+   "slug_author": "plutarch"
+  },
+  {
+   "id": "141",
+   "title": "Mansfield Park",
+   "author": "Jane Austen",
+   "slug": "mansfield-park",
+   "slug_author": "jane-austen"
+  },
+  {
+   "id": "14209",
+   "title": "The Kybalion / A Study of The Hermetic Philosophy of Ancient Egypt and Greece",
+   "author": "Three Initiates",
+   "slug": "the-kybalion-a-study-of-the-hermetic-philosophy-of-ancient-e",
+   "slug_author": "three-initiates"
+  },
+  {
+   "id": "14244",
+   "title": "The Romance of Tristan and Iseult",
+   "author": "Joseph B\u00e9dier",
+   "slug": "the-romance-of-tristan-and-iseult",
+   "slug_author": "joseph-bdier"
+  },
+  {
+   "id": "14328",
+   "title": "The Consolation of Philosophy",
+   "author": "Boethius",
+   "slug": "the-consolation-of-philosophy",
+   "slug_author": "boethius"
+  },
+  {
+   "id": "14418",
+   "title": "Thrift",
+   "author": "Samuel Smiles",
+   "slug": "thrift",
+   "slug_author": "samuel-smiles"
+  },
+  {
+   "id": "14471",
+   "title": "The Empty House and Other Ghost Stories",
+   "author": "Algernon Blackwood",
+   "slug": "the-empty-house-and-other-ghost-stories",
+   "slug_author": "algernon-blackwood"
+  },
+  {
+   "id": "14504",
+   "title": "Experiments and Considerations Touching Colours (1664)",
+   "author": "Robert Boyle",
+   "slug": "experiments-and-considerations-touching-colours-1664",
+   "slug_author": "robert-boyle"
+  },
+  {
+   "id": "146",
+   "title": "A Little Princess / Being the whole story of Sara Crewe now told for the first time",
+   "author": "Frances Hodgson Burnett",
+   "slug": "a-little-princess-being-the-whole-story-of-sara-crewe-now-to",
+   "slug_author": "frances-hodgson-burnett"
+  },
+  {
+   "id": "14658",
+   "title": "The Road",
+   "author": "Jack London",
+   "slug": "the-road",
+   "slug_author": "jack-london"
+  },
+  {
+   "id": "148",
+   "title": "The Autobiography of Benjamin Franklin",
+   "author": "Benjamin Franklin",
+   "slug": "the-autobiography-of-benjamin-franklin",
+   "slug_author": "benjamin-franklin"
+  },
+  {
+   "id": "14818",
+   "title": "The Daughter of Anderson Crow",
+   "author": "George Barr McCutcheon",
+   "slug": "the-daughter-of-anderson-crow",
+   "slug_author": "george-barr-mccutcheon"
+  },
+  {
+   "id": "149",
+   "title": "The Lost Continent",
+   "author": "Edgar Rice Burroughs",
+   "slug": "the-lost-continent",
+   "slug_author": "edgar-rice-burroughs"
+  },
+  {
+   "id": "1497",
+   "title": "The Republic",
+   "author": "Plato",
+   "slug": "the-republic",
+   "slug_author": "plato"
+  },
+  {
+   "id": "14988",
+   "title": "Cicero's Tusculan Disputations / Also, Treatises On The Nature Of The Gods, And On The Commonwealth",
+   "author": "Marcus Tullius Cicero",
+   "slug": "ciceros-tusculan-disputations-also-treatises-on-the-nature-o",
+   "slug_author": "marcus-tullius-cicero"
+  },
+  {
+   "id": "15384",
+   "title": "The Real Adventure",
+   "author": "Henry Kitchell Webster",
+   "slug": "the-real-adventure",
+   "slug_author": "henry-kitchell-webster"
+  },
+  {
+   "id": "15399",
+   "title": "The Interesting Narrative of the Life of Olaudah Equiano, Or Gustavus Vassa, The African / Written By Himself",
+   "author": "Olaudah Equiano",
+   "slug": "the-interesting-narrative-of-the-life-of-olaudah-equiano-or-",
+   "slug_author": "olaudah-equiano"
+  },
+  {
+   "id": "155",
+   "title": "The Moonstone",
+   "author": "Wilkie Collins",
+   "slug": "the-moonstone",
+   "slug_author": "wilkie-collins"
+  },
+  {
+   "id": "1564",
+   "title": "Boswell's Life of Johnson / Abridged and edited, with an introduction by Charles Grosvenor Osgood",
+   "author": "James Boswell",
+   "slug": "boswells-life-of-johnson-abridged-and-edited-with-an-introdu",
+   "slug_author": "james-boswell"
+  },
+  {
+   "id": "1572",
+   "title": "Timaeus",
+   "author": "Plato",
+   "slug": "timaeus",
+   "slug_author": "plato"
+  },
+  {
+   "id": "15721",
+   "title": "The Hawk of Egypt",
+   "author": "Joan Conquest",
+   "slug": "the-hawk-of-egypt",
+   "slug_author": "joan-conquest"
+  },
+  {
+   "id": "158",
+   "title": "Emma",
+   "author": "Jane Austen",
+   "slug": "emma",
+   "slug_author": "jane-austen"
+  },
+  {
+   "id": "15877",
+   "title": "Thoughts of Marcus Aurelius Antoninus",
+   "author": "Emperor of Rome Marcus Aurelius",
+   "slug": "thoughts-of-marcus-aurelius-antoninus",
+   "slug_author": "emperor-of-rome-marcus-aurelius"
+  },
+  {
+   "id": "159",
+   "title": "The island of Doctor Moreau",
+   "author": "H. G. Wells",
+   "slug": "the-island-of-doctor-moreau",
+   "slug_author": "h-g-wells"
+  },
+  {
+   "id": "1597",
+   "title": "Andersen's Fairy Tales",
+   "author": "H. C. Andersen",
+   "slug": "andersens-fairy-tales",
+   "slug_author": "h-c-andersen"
+  },
+  {
+   "id": "16",
+   "title": "Peter Pan",
+   "author": "J. M. Barrie",
+   "slug": "peter-pan",
+   "slug_author": "j-m-barrie"
+  },
+  {
+   "id": "1600",
+   "title": "Symposium",
+   "author": "Plato",
+   "slug": "symposium",
+   "slug_author": "plato"
+  },
+  {
+   "id": "1608",
+   "title": "Camille (La Dame aux Camilias)",
+   "author": "Alexandre Dumas",
+   "slug": "camille-la-dame-aux-camilias",
+   "slug_author": "alexandre-dumas"
+  },
+  {
+   "id": "16199",
+   "title": "Memoirs of the Author of a Vindication of the Rights of Woman",
+   "author": "William Godwin",
+   "slug": "memoirs-of-the-author-of-a-vindication-of-the-rights-of-woma",
+   "slug_author": "william-godwin"
+  },
+  {
+   "id": "16287",
+   "title": "Talks To Teachers On Psychology; And To Students On Some Of Life's Ideals",
+   "author": "William James",
+   "slug": "talks-to-teachers-on-psychology-and-to-students-on-some-of-l",
+   "slug_author": "william-james"
+  },
+  {
+   "id": "16317",
+   "title": "The Art of Public Speaking",
+   "author": "J. Berg Esenwein",
+   "slug": "the-art-of-public-speaking",
+   "slug_author": "j-berg-esenwein"
+  },
+  {
+   "id": "1636",
+   "title": "Phaedrus",
+   "author": "Plato",
+   "slug": "phaedrus",
+   "slug_author": "plato"
+  },
+  {
+   "id": "16389",
+   "title": "The Enchanted April",
+   "author": "Elizabeth Von Arnim",
+   "slug": "the-enchanted-april",
+   "slug_author": "elizabeth-von-arnim"
+  },
+  {
+   "id": "164",
+   "title": "Twenty Thousand Leagues under the Sea",
+   "author": "Jules Verne",
+   "slug": "twenty-thousand-leagues-under-the-sea",
+   "slug_author": "jules-verne"
+  },
+  {
+   "id": "16433",
+   "title": "The Gay Cockade",
+   "author": "Temple Bailey",
+   "slug": "the-gay-cockade",
+   "slug_author": "temple-bailey"
+  },
+  {
+   "id": "1656",
+   "title": "Apology",
+   "author": "Plato",
+   "slug": "apology",
+   "slug_author": "plato"
+  },
+  {
+   "id": "1658",
+   "title": "Phaedo",
+   "author": "Plato",
+   "slug": "phaedo",
+   "slug_author": "plato"
+  },
+  {
+   "id": "1661",
+   "title": "The Adventures of Sherlock Holmes",
+   "author": "Arthur Conan Doyle",
+   "slug": "the-adventures-of-sherlock-holmes",
+   "slug_author": "arthur-conan-doyle"
+  },
+  {
+   "id": "16643",
+   "title": "Essays by Ralph Waldo Emerson",
+   "author": "Ralph Waldo Emerson",
+   "slug": "essays-by-ralph-waldo-emerson",
+   "slug_author": "ralph-waldo-emerson"
+  },
+  {
+   "id": "16713",
+   "title": "Amusements in Mathematics",
+   "author": "Henry Ernest Dudeney",
+   "slug": "amusements-in-mathematics",
+   "slug_author": "henry-ernest-dudeney"
+  },
+  {
+   "id": "1672",
+   "title": "Gorgias",
+   "author": "Plato",
+   "slug": "gorgias",
+   "slug_author": "plato"
+  },
+  {
+   "id": "1680",
+   "title": "At the Sign of the Cat and Racket",
+   "author": "Honor\u00e9 de Balzac",
+   "slug": "at-the-sign-of-the-cat-and-racket",
+   "slug_author": "honor-de-balzac"
+  },
+  {
+   "id": "1685",
+   "title": "The Mystery of the Yellow Room",
+   "author": "Gaston Leroux",
+   "slug": "the-mystery-of-the-yellow-room",
+   "slug_author": "gaston-leroux"
+  },
+  {
+   "id": "1686",
+   "title": "The Secret of the Night",
+   "author": "Gaston Leroux",
+   "slug": "the-secret-of-the-night",
+   "slug_author": "gaston-leroux"
+  },
+  {
+   "id": "16921",
+   "title": "Plague Ship",
+   "author": "Andre Norton",
+   "slug": "plague-ship",
+   "slug_author": "andre-norton"
+  },
+  {
+   "id": "1695",
+   "title": "The Man Who Was Thursday: A Nightmare",
+   "author": "G. K. Chesterton",
+   "slug": "the-man-who-was-thursday-a-nightmare",
+   "slug_author": "g-k-chesterton"
+  },
+  {
+   "id": "17157",
+   "title": "Gulliver's Travels into Several Remote Regions of the World",
+   "author": "Jonathan Swift",
+   "slug": "gullivers-travels-into-several-remote-regions-of-the-world",
+   "slug_author": "jonathan-swift"
+  },
+  {
+   "id": "173",
+   "title": "The Insidious Dr. Fu Manchu",
+   "author": "Sax Rohmer",
+   "slug": "the-insidious-dr-fu-manchu",
+   "slug_author": "sax-rohmer"
+  },
+  {
+   "id": "174",
+   "title": "The Picture of Dorian Gray",
+   "author": "Oscar Wilde",
+   "slug": "the-picture-of-dorian-gray",
+   "slug_author": "oscar-wilde"
+  },
+  {
+   "id": "17450",
+   "title": "The Part Borne by the Dutch in the Discovery of Australia 1606-1765",
+   "author": "J. E. Heeres",
+   "slug": "the-part-borne-by-the-dutch-in-the-discovery-of-australia-16",
+   "slug_author": "j-e-heeres"
+  },
+  {
+   "id": "1747",
+   "title": "The Red Seal",
+   "author": "Natalie Sumner Lincoln",
+   "slug": "the-red-seal",
+   "slug_author": "natalie-sumner-lincoln"
+  },
+  {
+   "id": "175",
+   "title": "The Phantom of the Opera",
+   "author": "Gaston Leroux",
+   "slug": "the-phantom-of-the-opera",
+   "slug_author": "gaston-leroux"
+  },
+  {
+   "id": "1750",
+   "title": "Laws",
+   "author": "Plato",
+   "slug": "laws",
+   "slug_author": "plato"
+  },
+  {
+   "id": "17851",
+   "title": "The History of Mary Prince, a West Indian Slave",
+   "author": "Mary Prince",
+   "slug": "the-history-of-mary-prince-a-west-indian-slave",
+   "slug_author": "mary-prince"
+  },
+  {
+   "id": "18151",
+   "title": "Time Crime",
+   "author": "H. Beam Piper",
+   "slug": "time-crime",
+   "slug_author": "h-beam-piper"
+  },
+  {
+   "id": "1837",
+   "title": "The Prince and the Pauper",
+   "author": "Mark Twain",
+   "slug": "the-prince-and-the-pauper",
+   "slug_author": "mark-twain"
+  },
+  {
+   "id": "18459",
+   "title": "Hypnerotomachia: The Strife of Loue in a Dreame",
+   "author": "Francesco Colonna",
+   "slug": "hypnerotomachia-the-strife-of-loue-in-a-dreame",
+   "slug_author": "francesco-colonna"
+  },
+  {
+   "id": "1849",
+   "title": "The Yellow Crayon",
+   "author": "E. Phillips Oppenheim",
+   "slug": "the-yellow-crayon",
+   "slug_author": "e-phillips-oppenheim"
+  },
+  {
+   "id": "18547",
+   "title": "Madame Flirt / A Romance of 'The Beggar's Opera'",
+   "author": "Charles Edward Pearce",
+   "slug": "madame-flirt-a-romance-of-the-beggars-opera",
+   "slug_author": "charles-edward-pearce"
+  },
+  {
+   "id": "18591",
+   "title": "The Life of George Washington, Vol. 1 / Commander in Chief of the American Forces During the War / which Established the Independence of his Country and First / President of the United States",
+   "author": "John Marshall",
+   "slug": "the-life-of-george-washington-vol-1-commander-in-chief-of-th",
+   "slug_author": "john-marshall"
+  },
+  {
+   "id": "18592",
+   "title": "The Life of George Washington, Vol. 2 / Commander in Chief of the American Forces During the War / which Established the Independence of his Country and First / President of the United States",
+   "author": "John Marshall",
+   "slug": "the-life-of-george-washington-vol-2-commander-in-chief-of-th",
+   "slug_author": "john-marshall"
+  },
+  {
+   "id": "18594",
+   "title": "The Life of George Washington, Vol. 4 / Commander in Chief of the American Forces During the War / which Established the Independence of his Country and First / President of the United States",
+   "author": "John Marshall",
+   "slug": "the-life-of-george-washington-vol-4-commander-in-chief-of-th",
+   "slug_author": "john-marshall"
+  },
+  {
+   "id": "1872",
+   "title": "The Red House Mystery",
+   "author": "A. A. Milne",
+   "slug": "the-red-house-mystery",
+   "slug_author": "a-a-milne"
+  },
+  {
+   "id": "1874",
+   "title": "The Railway Children",
+   "author": "E. Nesbit",
+   "slug": "the-railway-children",
+   "slug_author": "e-nesbit"
+  },
+  {
+   "id": "18857",
+   "title": "A Journey to the Centre of the Earth",
+   "author": "Jules Verne",
+   "slug": "a-journey-to-the-centre-of-the-earth",
+   "slug_author": "jules-verne"
+  },
+  {
+   "id": "18875",
+   "title": "The Prairie Wife",
+   "author": "Arthur Stringer",
+   "slug": "the-prairie-wife",
+   "slug_author": "arthur-stringer"
+  },
+  {
+   "id": "19027",
+   "title": "The Revolt on Venus",
+   "author": "Carey Rockwell",
+   "slug": "the-revolt-on-venus",
+   "slug_author": "carey-rockwell"
+  },
+  {
+   "id": "19146",
+   "title": "The Entailed Hat; Or, Patty Cannon's Times",
+   "author": "George Alfred Townsend",
+   "slug": "the-entailed-hat-or-patty-cannons-times",
+   "slug_author": "george-alfred-townsend"
+  },
+  {
+   "id": "1931",
+   "title": "The Zeppelin's Passenger",
+   "author": "E. Phillips Oppenheim",
+   "slug": "the-zeppelins-passenger",
+   "slug_author": "e-phillips-oppenheim"
+  },
+  {
+   "id": "19412",
+   "title": "Set in Silver",
+   "author": "C. N. Williamson",
+   "slug": "set-in-silver",
+   "slug_author": "c-n-williamson"
+  },
+  {
+   "id": "19441",
+   "title": "My Friend the Chauffeur",
+   "author": "C. N. Williamson",
+   "slug": "my-friend-the-chauffeur",
+   "slug_author": "c-n-williamson"
+  },
+  {
+   "id": "19476",
+   "title": "A Honeymoon in Space",
+   "author": "George Chetwynd Griffith",
+   "slug": "a-honeymoon-in-space",
+   "slug_author": "george-chetwynd-griffith"
+  },
+  {
+   "id": "19707",
+   "title": "One Wonderful Night: A Romance of New York",
+   "author": "Louis Tracy",
+   "slug": "one-wonderful-night-a-romance-of-new-york",
+   "slug_author": "louis-tracy"
+  },
+  {
+   "id": "19742",
+   "title": "The Heather-Moon",
+   "author": "C. N. Williamson",
+   "slug": "the-heathermoon",
+   "slug_author": "c-n-williamson"
+  },
+  {
+   "id": "19771",
+   "title": "Henrietta Temple: A Love Story",
+   "author": "Earl of Beaconsfield Benjamin Disraeli",
+   "slug": "henrietta-temple-a-love-story",
+   "slug_author": "earl-of-beaconsfield-benjamin-disraeli"
+  },
+  {
+   "id": "19942",
+   "title": "Candide",
+   "author": "Voltaire",
+   "slug": "candide",
+   "slug_author": "voltaire"
+  },
+  {
+   "id": "19994",
+   "title": "The Aesop for Children / With pictures by Milo Winter",
+   "author": "Aesop",
+   "slug": "the-aesop-for-children-with-pictures-by-milo-winter",
+   "slug_author": "aesop"
+  },
+  {
+   "id": "20008",
+   "title": "The Young Duke",
+   "author": "Earl of Beaconsfield Benjamin Disraeli",
+   "slug": "the-young-duke",
+   "slug_author": "earl-of-beaconsfield-benjamin-disraeli"
+  },
+  {
+   "id": "20058",
+   "title": "The Napoleon of Notting Hill",
+   "author": "G. K. Chesterton",
+   "slug": "the-napoleon-of-notting-hill",
+   "slug_author": "g-k-chesterton"
+  },
+  {
+   "id": "20121",
+   "title": "Lone Star Planet",
+   "author": "H. Beam Piper",
+   "slug": "lone-star-planet",
+   "slug_author": "h-beam-piper"
+  },
+  {
+   "id": "20131",
+   "title": "The Mask: A Story of Love and Adventure",
+   "author": "Arthur Hornblow",
+   "slug": "the-mask-a-story-of-love-and-adventure",
+   "slug_author": "arthur-hornblow"
+  },
+  {
+   "id": "20203",
+   "title": "Autobiography of Benjamin Franklin",
+   "author": "Benjamin Franklin",
+   "slug": "autobiography-of-benjamin-franklin",
+   "slug_author": "benjamin-franklin"
+  },
+  {
+   "id": "204",
+   "title": "The innocence of Father Brown",
+   "author": "G. K. Chesterton",
+   "slug": "the-innocence-of-father-brown",
+   "slug_author": "g-k-chesterton"
+  },
+  {
+   "id": "2040",
+   "title": "Confessions of an English Opium-Eater",
+   "author": "Thomas De Quincey",
+   "slug": "confessions-of-an-english-opiumeater",
+   "slug_author": "thomas-de-quincey"
+  },
+  {
+   "id": "205",
+   "title": "Walden, and On The Duty Of Civil Disobedience",
+   "author": "Henry David Thoreau",
+   "slug": "walden-and-on-the-duty-of-civil-disobedience",
+   "slug_author": "henry-david-thoreau"
+  },
+  {
+   "id": "20546",
+   "title": "The Hand in the Dark",
+   "author": "Arthur J. Rees",
+   "slug": "the-hand-in-the-dark",
+   "slug_author": "arthur-j-rees"
+  },
+  {
+   "id": "20628",
+   "title": "Torchy and Vee",
+   "author": "Sewell Ford",
+   "slug": "torchy-and-vee",
+   "slug_author": "sewell-ford"
+  },
+  {
+   "id": "20717",
+   "title": "The Girl on the Boat",
+   "author": "P. G. Wodehouse",
+   "slug": "the-girl-on-the-boat",
+   "slug_author": "p-g-wodehouse"
+  },
+  {
+   "id": "20782",
+   "title": "Triplanetary",
+   "author": "E. E. Smith",
+   "slug": "triplanetary",
+   "slug_author": "e-e-smith"
+  },
+  {
+   "id": "20796",
+   "title": "The Colors of Space",
+   "author": "Marion Zimmer Bradley",
+   "slug": "the-colors-of-space",
+   "slug_author": "marion-zimmer-bradley"
+  },
+  {
+   "id": "20888",
+   "title": "The Blood of the Conquerors",
+   "author": "Harvey Fergusson",
+   "slug": "the-blood-of-the-conquerors",
+   "slug_author": "harvey-fergusson"
+  },
+  {
+   "id": "209",
+   "title": "The Turn of the Screw",
+   "author": "Henry James",
+   "slug": "the-turn-of-the-screw",
+   "slug_author": "henry-james"
+  },
+  {
+   "id": "20911",
+   "title": "The rose of old St. Louis",
+   "author": "Mary Dillon",
+   "slug": "the-rose-of-old-st-louis",
+   "slug_author": "mary-dillon"
+  },
+  {
+   "id": "2097",
+   "title": "The Sign of the Four",
+   "author": "Arthur Conan Doyle",
+   "slug": "the-sign-of-the-four",
+   "slug_author": "arthur-conan-doyle"
+  },
+  {
+   "id": "20984",
+   "title": "Prudy Keeping House",
+   "author": "Sophie May",
+   "slug": "prudy-keeping-house",
+   "slug_author": "sophie-may"
+  },
+  {
+   "id": "20985",
+   "title": "The Banner Boy Scouts on a Tour; or, The Mystery of Rattlesnake Mountain",
+   "author": "George A. Warren",
+   "slug": "the-banner-boy-scouts-on-a-tour-or-the-mystery-of-rattlesnak",
+   "slug_author": "george-a-warren"
+  },
+  {
+   "id": "21005",
+   "title": "Shorty McCabe on the Job",
+   "author": "Sewell Ford",
+   "slug": "shorty-mccabe-on-the-job",
+   "slug_author": "sewell-ford"
+  },
+  {
+   "id": "21008",
+   "title": "The Boy With the U. S. Fisheries",
+   "author": "Francis Rolt-Wheeler",
+   "slug": "the-boy-with-the-u-s-fisheries",
+   "slug_author": "francis-roltwheeler"
+  },
+  {
+   "id": "21055",
+   "title": "A Mating in the Wilds",
+   "author": "Ottwell Binns",
+   "slug": "a-mating-in-the-wilds",
+   "slug_author": "ottwell-binns"
+  },
+  {
+   "id": "21084",
+   "title": "Jokes For All Occasions / Selected and Edited by One of America's Foremost Public Speakers",
+   "author": "Anonymous",
+   "slug": "jokes-for-all-occasions-selected-and-edited-by-one-of-americ",
+   "slug_author": "anonymous"
+  },
+  {
+   "id": "21092",
+   "title": "On the Trail of the Space Pirates",
+   "author": "Carey Rockwell",
+   "slug": "on-the-trail-of-the-space-pirates",
+   "slug_author": "carey-rockwell"
+  },
+  {
+   "id": "21094",
+   "title": "The Girl in the Golden Atom",
+   "author": "Ray Cummings",
+   "slug": "the-girl-in-the-golden-atom",
+   "slug_author": "ray-cummings"
+  },
+  {
+   "id": "21188",
+   "title": "Tom Swift and His Giant Telescope",
+   "author": "Victor Appleton",
+   "slug": "tom-swift-and-his-giant-telescope",
+   "slug_author": "victor-appleton"
+  },
+  {
+   "id": "21219",
+   "title": "A Voice in the Wilderness",
+   "author": "Grace Livingston Hill",
+   "slug": "a-voice-in-the-wilderness",
+   "slug_author": "grace-livingston-hill"
+  },
+  {
+   "id": "21248",
+   "title": "The Little Colonel: Maid of Honor",
+   "author": "Annie F. Johnston",
+   "slug": "the-little-colonel-maid-of-honor",
+   "slug_author": "annie-f-johnston"
+  },
+  {
+   "id": "21264",
+   "title": "The Four-Pools Mystery",
+   "author": "Jean Webster",
+   "slug": "the-fourpools-mystery",
+   "slug_author": "jean-webster"
+  },
+  {
+   "id": "21268",
+   "title": "The Search for the Silver City: A Tale of Adventure in Yucatan",
+   "author": "James Otis",
+   "slug": "the-search-for-the-silver-city-a-tale-of-adventure-in-yucata",
+   "slug_author": "james-otis"
+  },
+  {
+   "id": "2130",
+   "title": "Utopia",
+   "author": "Saint Thomas More",
+   "slug": "utopia",
+   "slug_author": "saint-thomas-more"
+  },
+  {
+   "id": "21394",
+   "title": "Priscilla's Spies",
+   "author": "George A. Birmingham",
+   "slug": "priscillas-spies",
+   "slug_author": "george-a-birmingham"
+  },
+  {
+   "id": "21427",
+   "title": "Comic History of the United States",
+   "author": "Bill Nye",
+   "slug": "comic-history-of-the-united-states",
+   "slug_author": "bill-nye"
+  },
+  {
+   "id": "21430",
+   "title": "Mexico and Its Religion / With Incidents of Travel in That Country During Parts of the Years 1851-52-53-54, and Historical Notices of Events Connected With Places Visited",
+   "author": "Robert Anderson Wilson",
+   "slug": "mexico-and-its-religion-with-incidents-of-travel-in-that-cou",
+   "slug_author": "robert-anderson-wilson"
+  },
+  {
+   "id": "2148",
+   "title": "The Works of Edgar Allan Poe \u2014 Volume 2",
+   "author": "Edgar Allan Poe",
+   "slug": "the-works-of-edgar-allan-poe-volume-2",
+   "slug_author": "edgar-allan-poe"
+  },
+  {
+   "id": "215",
+   "title": "The call of the wild",
+   "author": "Jack London",
+   "slug": "the-call-of-the-wild",
+   "slug_author": "jack-london"
+  },
+  {
+   "id": "21529",
+   "title": "The Chauffeur and the Chaperon",
+   "author": "C. N. Williamson",
+   "slug": "the-chauffeur-and-the-chaperon",
+   "slug_author": "c-n-williamson"
+  },
+  {
+   "id": "21569",
+   "title": "Southern Arabia",
+   "author": "J. Theodore Bent",
+   "slug": "southern-arabia",
+   "slug_author": "j-theodore-bent"
+  },
+  {
+   "id": "21600",
+   "title": "The Flourishing of Romance and the Rise of Allegory / (Periods of European Literature, vol. II)",
+   "author": "George Saintsbury",
+   "slug": "the-flourishing-of-romance-and-the-rise-of-allegory-periods-",
+   "slug_author": "george-saintsbury"
+  },
+  {
+   "id": "21607",
+   "title": "Adrift in the Ice-Fields",
+   "author": "Charles Winslow Hall",
+   "slug": "adrift-in-the-icefields",
+   "slug_author": "charles-winslow-hall"
+  },
+  {
+   "id": "21617",
+   "title": "That Affair Next Door",
+   "author": "Anna Katharine Green",
+   "slug": "that-affair-next-door",
+   "slug_author": "anna-katharine-green"
+  },
+  {
+   "id": "21618",
+   "title": "The Aztec Treasure-House",
+   "author": "Thomas A. Janvier",
+   "slug": "the-aztec-treasurehouse",
+   "slug_author": "thomas-a-janvier"
+  },
+  {
+   "id": "21622",
+   "title": "Architects of Fate; Or, Steps to Success and Power",
+   "author": "Orison Swett Marden",
+   "slug": "architects-of-fate-or-steps-to-success-and-power",
+   "slug_author": "orison-swett-marden"
+  },
+  {
+   "id": "21635",
+   "title": "Prudence Says So",
+   "author": "Ethel Hueston",
+   "slug": "prudence-says-so",
+   "slug_author": "ethel-hueston"
+  },
+  {
+   "id": "21638",
+   "title": "Tarrano the Conqueror",
+   "author": "Ray Cummings",
+   "slug": "tarrano-the-conqueror",
+   "slug_author": "ray-cummings"
+  },
+  {
+   "id": "21640",
+   "title": "A Bid for Fortune; Or, Dr. Nikola's Vendetta",
+   "author": "Guy Boothby",
+   "slug": "a-bid-for-fortune-or-dr-nikolas-vendetta",
+   "slug_author": "guy-boothby"
+  },
+  {
+   "id": "21664",
+   "title": "George at the Fort; Or, Life Among the Soldiers",
+   "author": "Harry Castlemon",
+   "slug": "george-at-the-fort-or-life-among-the-soldiers",
+   "slug_author": "harry-castlemon"
+  },
+  {
+   "id": "21759",
+   "title": "Kate Coventry: An Autobiography",
+   "author": "G. J. Whyte-Melville",
+   "slug": "kate-coventry-an-autobiography",
+   "slug_author": "g-j-whytemelville"
+  },
+  {
+   "id": "21767",
+   "title": "Agatha's Husband: A Novel",
+   "author": "Dinah Maria Mulock Craik",
+   "slug": "agathas-husband-a-novel",
+   "slug_author": "dinah-maria-mulock-craik"
+  },
+  {
+   "id": "21816",
+   "title": "The Confidence-Man: His Masquerade",
+   "author": "Herman Melville",
+   "slug": "the-confidenceman-his-masquerade",
+   "slug_author": "herman-melville"
+  },
+  {
+   "id": "21832",
+   "title": "The Wonder Island Boys: Conquest of the Savages",
+   "author": "Roger T. Finlay",
+   "slug": "the-wonder-island-boys-conquest-of-the-savages",
+   "slug_author": "roger-t-finlay"
+  },
+  {
+   "id": "21839",
+   "title": "Sense and Sensibility",
+   "author": "Jane Austen",
+   "slug": "sense-and-sensibility",
+   "slug_author": "jane-austen"
+  },
+  {
+   "id": "219",
+   "title": "Heart of Darkness",
+   "author": "Joseph Conrad",
+   "slug": "heart-of-darkness",
+   "slug_author": "joseph-conrad"
+  },
+  {
+   "id": "21930",
+   "title": "Salthaven",
+   "author": "W. W. Jacobs",
+   "slug": "salthaven",
+   "slug_author": "w-w-jacobs"
+  },
+  {
+   "id": "21953",
+   "title": "Aurelian; or, Rome in the Third Century",
+   "author": "William Ware",
+   "slug": "aurelian-or-rome-in-the-third-century",
+   "slug_author": "william-ware"
+  },
+  {
+   "id": "21958",
+   "title": "Frank Merriwell's Races",
+   "author": "Burt L. Standish",
+   "slug": "frank-merriwells-races",
+   "slug_author": "burt-l-standish"
+  },
+  {
+   "id": "21986",
+   "title": "The Dash for Khartoum: A Tale of the Nile Expedition",
+   "author": "G. A. Henty",
+   "slug": "the-dash-for-khartoum-a-tale-of-the-nile-expedition",
+   "slug_author": "g-a-henty"
+  },
+  {
+   "id": "22018",
+   "title": "The Son of Monte-Cristo, Volume I",
+   "author": "Jules Lermina",
+   "slug": "the-son-of-montecristo-volume-i",
+   "slug_author": "jules-lermina"
+  },
+  {
+   "id": "22033",
+   "title": "Plotting in Pirate Seas",
+   "author": "Francis Rolt-Wheeler",
+   "slug": "plotting-in-pirate-seas",
+   "slug_author": "francis-roltwheeler"
+  },
+  {
+   "id": "22052",
+   "title": "Standish of Standish: A Story of the Pilgrims",
+   "author": "Jane G. Austin",
+   "slug": "standish-of-standish-a-story-of-the-pilgrims",
+   "slug_author": "jane-g-austin"
+  },
+  {
+   "id": "22063",
+   "title": "The Trail of '98: A Northland Romance",
+   "author": "Robert W. Service",
+   "slug": "the-trail-of-98-a-northland-romance",
+   "slug_author": "robert-w-service"
+  },
+  {
+   "id": "22096",
+   "title": "Stories the Iroquois Tell Their Children",
+   "author": "Mabel Powers",
+   "slug": "stories-the-iroquois-tell-their-children",
+   "slug_author": "mabel-powers"
+  },
+  {
+   "id": "22101",
+   "title": "Wood folk at school",
+   "author": "William J. Long",
+   "slug": "wood-folk-at-school",
+   "slug_author": "william-j-long"
+  },
+  {
+   "id": "22121",
+   "title": "Olive: A Novel",
+   "author": "Dinah Maria Mulock Craik",
+   "slug": "olive-a-novel",
+   "slug_author": "dinah-maria-mulock-craik"
+  },
+  {
+   "id": "22129",
+   "title": "\"Wee Tim'rous Beasties\": Studies of Animal life and Character",
+   "author": "Douglas English",
+   "slug": "wee-timrous-beasties-studies-of-animal-life-and-character",
+   "slug_author": "douglas-english"
+  },
+  {
+   "id": "22156",
+   "title": "The Boy with the U. S. Weather Men",
+   "author": "Francis Rolt-Wheeler",
+   "slug": "the-boy-with-the-u-s-weather-men",
+   "slug_author": "francis-roltwheeler"
+  },
+  {
+   "id": "22163",
+   "title": "The Rover Boys on the Farm; or, Last Days at Putnam Hall",
+   "author": "Edward Stratemeyer",
+   "slug": "the-rover-boys-on-the-farm-or-last-days-at-putnam-hall",
+   "slug_author": "edward-stratemeyer"
+  },
+  {
+   "id": "22164",
+   "title": "A Modern Tomboy: A Story for Girls",
+   "author": "L. T. Meade",
+   "slug": "a-modern-tomboy-a-story-for-girls",
+   "slug_author": "l-t-meade"
+  },
+  {
+   "id": "22173",
+   "title": "The Grell Mystery",
+   "author": "Frank Froest",
+   "slug": "the-grell-mystery",
+   "slug_author": "frank-froest"
+  },
+  {
+   "id": "22210",
+   "title": "In the forbidden land",
+   "author": "Arnold Henry Savage Landor",
+   "slug": "in-the-forbidden-land",
+   "slug_author": "arnold-henry-savage-landor"
+  },
+  {
+   "id": "22221",
+   "title": "Oswald Langdon / or, Pierre and Paul Lanier. A Romance of 1894-1898",
+   "author": "Levi Jackson Hamilton",
+   "slug": "oswald-langdon-or-pierre-and-paul-lanier-a-romance-of-189418",
+   "slug_author": "levi-jackson-hamilton"
+  },
+  {
+   "id": "22231",
+   "title": "Peak and Prairie / From a Colorado Sketch-book",
+   "author": "Anna Fuller",
+   "slug": "peak-and-prairie-from-a-colorado-sketchbook",
+   "slug_author": "anna-fuller"
+  },
+  {
+   "id": "22248",
+   "title": "The Indian Fairy Book: From the Original Legends",
+   "author": "Cornelius Mathews",
+   "slug": "the-indian-fairy-book-from-the-original-legends",
+   "slug_author": "cornelius-mathews"
+  },
+  {
+   "id": "22269",
+   "title": "The Autobiography of Madame Guyon",
+   "author": "Jeanne Marie Bouvier de la Motte Guyon",
+   "slug": "the-autobiography-of-madame-guyon",
+   "slug_author": "jeanne-marie-bouvier-de-la-motte-guyon"
+  },
+  {
+   "id": "22287",
+   "title": "'Smiles': A Rose of the Cumberlands",
+   "author": "Eliot H. Robinson",
+   "slug": "smiles-a-rose-of-the-cumberlands",
+   "slug_author": "eliot-h-robinson"
+  },
+  {
+   "id": "22292",
+   "title": "Glory of Youth",
+   "author": "Temple Bailey",
+   "slug": "glory-of-youth",
+   "slug_author": "temple-bailey"
+  },
+  {
+   "id": "22295",
+   "title": "On prayer and the contemplative life",
+   "author": "Saint Aquinas Thomas",
+   "slug": "on-prayer-and-the-contemplative-life",
+   "slug_author": "saint-aquinas-thomas"
+  },
+  {
+   "id": "22298",
+   "title": "Practical Mechanics for Boys",
+   "author": "James Slough Zerbe",
+   "slug": "practical-mechanics-for-boys",
+   "slug_author": "james-slough-zerbe"
+  },
+  {
+   "id": "223",
+   "title": "The wisdom of Father Brown",
+   "author": "G. K. Chesterton",
+   "slug": "the-wisdom-of-father-brown",
+   "slug_author": "g-k-chesterton"
+  },
+  {
+   "id": "22321",
+   "title": "John Splendid: The Tale of a Poor Gentleman, and the Little Wars of Lorn",
+   "author": "Neil Munro",
+   "slug": "john-splendid-the-tale-of-a-poor-gentleman-and-the-little-wa",
+   "slug_author": "neil-munro"
+  },
+  {
+   "id": "22323",
+   "title": "Impressions of South Africa",
+   "author": "Viscount James Bryce Bryce",
+   "slug": "impressions-of-south-africa",
+   "slug_author": "viscount-james-bryce-bryce"
+  },
+  {
+   "id": "22342",
+   "title": "Supermind",
+   "author": "Randall Garrett",
+   "slug": "supermind",
+   "slug_author": "randall-garrett"
+  },
+  {
+   "id": "22343",
+   "title": "The Wedding Ring / A Series of Discourses for Husbands and Wives and Those Contemplating Matrimony",
+   "author": "T. De Witt Talmage",
+   "slug": "the-wedding-ring-a-series-of-discourses-for-husbands-and-wiv",
+   "slug_author": "t-de-witt-talmage"
+  },
+  {
+   "id": "22345",
+   "title": "Memoirs of the Private Life, Return, and Reign of Napoleon in 1815, Vol. I",
+   "author": "baron Pierre Alexandre \u00c9douard Fleury de Chaboulon",
+   "slug": "memoirs-of-the-private-life-return-and-reign-of-napoleon-in-",
+   "slug_author": "baron-pierre-alexandre-douard-fleury-de-chaboulon"
+  },
+  {
+   "id": "22354",
+   "title": "The Adventures of Maya the Bee",
+   "author": "Waldemar Bonsels",
+   "slug": "the-adventures-of-maya-the-bee",
+   "slug_author": "waldemar-bonsels"
+  },
+  {
+   "id": "22364",
+   "title": "The Philosophy of the Moral Feelings",
+   "author": "John Abercrombie",
+   "slug": "the-philosophy-of-the-moral-feelings",
+   "slug_author": "john-abercrombie"
+  },
+  {
+   "id": "22396",
+   "title": "King Arthur's Knights / The Tales Re-told for Boys & Girls",
+   "author": "Henry Gilbert",
+   "slug": "king-arthurs-knights-the-tales-retold-for-boys-girls",
+   "slug_author": "henry-gilbert"
+  },
+  {
+   "id": "224",
+   "title": "A pair of blue eyes",
+   "author": "Thomas Hardy",
+   "slug": "a-pair-of-blue-eyes",
+   "slug_author": "thomas-hardy"
+  },
+  {
+   "id": "22409",
+   "title": "A Woman who went to Alaska",
+   "author": "May Kellogg Sullivan",
+   "slug": "a-woman-who-went-to-alaska",
+   "slug_author": "may-kellogg-sullivan"
+  },
+  {
+   "id": "22420",
+   "title": "The Book of Nature Myths",
+   "author": "Florence Holbrook",
+   "slug": "the-book-of-nature-myths",
+   "slug_author": "florence-holbrook"
+  },
+  {
+   "id": "22424",
+   "title": "Frank Merriwell Down South",
+   "author": "Burt L. Standish",
+   "slug": "frank-merriwell-down-south",
+   "slug_author": "burt-l-standish"
+  },
+  {
+   "id": "22433",
+   "title": "Breaking Away; or, The Fortunes of a Student",
+   "author": "Oliver Optic",
+   "slug": "breaking-away-or-the-fortunes-of-a-student",
+   "slug_author": "oliver-optic"
+  },
+  {
+   "id": "22536",
+   "title": "Jane Austen, Her Life and Letters: A Family Record",
+   "author": "William Austen-Leigh",
+   "slug": "jane-austen-her-life-and-letters-a-family-record",
+   "slug_author": "william-austenleigh"
+  },
+  {
+   "id": "22566",
+   "title": "Dorothy and the Wizard in Oz",
+   "author": "L. Frank Baum",
+   "slug": "dorothy-and-the-wizard-in-oz",
+   "slug_author": "l-frank-baum"
+  },
+  {
+   "id": "22571",
+   "title": "Frank Merriwell's Bravery",
+   "author": "Burt L. Standish",
+   "slug": "frank-merriwells-bravery",
+   "slug_author": "burt-l-standish"
+  },
+  {
+   "id": "22583",
+   "title": "The Highgrader",
+   "author": "William MacLeod Raine",
+   "slug": "the-highgrader",
+   "slug_author": "william-macleod-raine"
+  },
+  {
+   "id": "22646",
+   "title": "The Hunters of the Ozark",
+   "author": "Edward Sylvester Ellis",
+   "slug": "the-hunters-of-the-ozark",
+   "slug_author": "edward-sylvester-ellis"
+  },
+  {
+   "id": "22669",
+   "title": "The Young Miner; Or, Tom Nelson in California",
+   "author": "Jr. Horatio Alger",
+   "slug": "the-young-miner-or-tom-nelson-in-california",
+   "slug_author": "jr-horatio-alger"
+  },
+  {
+   "id": "22689",
+   "title": "The Confessions of a Caricaturist, Vol. 2",
+   "author": "Harry Furniss",
+   "slug": "the-confessions-of-a-caricaturist-vol-2",
+   "slug_author": "harry-furniss"
+  },
+  {
+   "id": "22693",
+   "title": "A Book of Myths",
+   "author": "Jean Lang",
+   "slug": "a-book-of-myths",
+   "slug_author": "jean-lang"
+  },
+  {
+   "id": "22718",
+   "title": "Cathedrals and Cloisters of the South of France, Volume 1",
+   "author": "Elise Whitlock Rose",
+   "slug": "cathedrals-and-cloisters-of-the-south-of-france-volume-1",
+   "slug_author": "elise-whitlock-rose"
+  },
+  {
+   "id": "22727",
+   "title": "The Land of the Long Night",
+   "author": "Paul B. Du Chaillu",
+   "slug": "the-land-of-the-long-night",
+   "slug_author": "paul-b-du-chaillu"
+  },
+  {
+   "id": "22737",
+   "title": "John Gayther's Garden and the Stories Told Therein",
+   "author": "Frank R. Stockton",
+   "slug": "john-gaythers-garden-and-the-stories-told-therein",
+   "slug_author": "frank-r-stockton"
+  },
+  {
+   "id": "2274",
+   "title": "How to Live on 24 Hours a Day",
+   "author": "Arnold Bennett",
+   "slug": "how-to-live-on-24-hours-a-day",
+   "slug_author": "arnold-bennett"
+  },
+  {
+   "id": "22749",
+   "title": "From Edinburgh to India & Burmah",
+   "author": "W. G. Burn Murdoch",
+   "slug": "from-edinburgh-to-india-burmah",
+   "slug_author": "w-g-burn-murdoch"
+  },
+  {
+   "id": "22766",
+   "title": "Electricity for Boys",
+   "author": "James Slough Zerbe",
+   "slug": "electricity-for-boys",
+   "slug_author": "james-slough-zerbe"
+  },
+  {
+   "id": "22795",
+   "title": "The Ontario High School Reader",
+   "author": "Aletta E. Marty",
+   "slug": "the-ontario-high-school-reader",
+   "slug_author": "aletta-e-marty"
+  },
+  {
+   "id": "22796",
+   "title": "Impressions of America During the Years 1833, 1834 and 1835. Volume 1 (of 2)",
+   "author": "Tyrone Power",
+   "slug": "impressions-of-america-during-the-years-1833-1834-and-1835-v",
+   "slug_author": "tyrone-power"
+  },
+  {
+   "id": "22820",
+   "title": "The Crooked House",
+   "author": "Brandon Fleming",
+   "slug": "the-crooked-house",
+   "slug_author": "brandon-fleming"
+  },
+  {
+   "id": "22822",
+   "title": "The Superstitions of Witchcraft",
+   "author": "Howard Williams",
+   "slug": "the-superstitions-of-witchcraft",
+   "slug_author": "howard-williams"
+  },
+  {
+   "id": "22872",
+   "title": "Susan Clegg and a Man in the House",
+   "author": "Anne Warner",
+   "slug": "susan-clegg-and-a-man-in-the-house",
+   "slug_author": "anne-warner"
+  },
+  {
+   "id": "22903",
+   "title": "The Expedition to Borneo of H.M.S. Dido / For the Suppression of Piracy",
+   "author": "Sir Henry Keppel",
+   "slug": "the-expedition-to-borneo-of-hms-dido-for-the-suppression-of-",
+   "slug_author": "sir-henry-keppel"
+  },
+  {
+   "id": "22914",
+   "title": "The Sceptical Chymist / or Chymico-Physical Doubts & Paradoxes, Touching the Spagyrist's Principles Commonly call'd Hypostatical; As they are wont to be Propos'd and Defended by the Generality of Alchymists. Whereunto is pr\u00e6mis'd Part of another Discourse relating to the same Subject.",
+   "author": "Robert Boyle",
+   "slug": "the-sceptical-chymist-or-chymicophysical-doubts-paradoxes-to",
+   "slug_author": "robert-boyle"
+  },
+  {
+   "id": "22965",
+   "title": "Ten Thousand Miles with a Dog Sled / A Narrative of Winter Travel in Interior Alaska",
+   "author": "Hudson Stuck",
+   "slug": "ten-thousand-miles-with-a-dog-sled-a-narrative-of-winter-tra",
+   "slug_author": "hudson-stuck"
+  },
+  {
+   "id": "22994",
+   "title": "The Frontier in American History",
+   "author": "Frederick Jackson Turner",
+   "slug": "the-frontier-in-american-history",
+   "slug_author": "frederick-jackson-turner"
+  },
+  {
+   "id": "23026",
+   "title": "The Phantom of the River",
+   "author": "Edward Sylvester Ellis",
+   "slug": "the-phantom-of-the-river",
+   "slug_author": "edward-sylvester-ellis"
+  },
+  {
+   "id": "23034",
+   "title": "Captain Canot; Or, Twenty Years of an African Slaver",
+   "author": "Theodore Canot",
+   "slug": "captain-canot-or-twenty-years-of-an-african-slaver",
+   "slug_author": "theodore-canot"
+  },
+  {
+   "id": "23066",
+   "title": "The Prairie Traveler: A Hand-book for Overland Expeditions",
+   "author": "Randolph B. Marcy",
+   "slug": "the-prairie-traveler-a-handbook-for-overland-expeditions",
+   "slug_author": "randolph-b-marcy"
+  },
+  {
+   "id": "23155",
+   "title": "Western Characters; or, Types of Border Life in the Western States",
+   "author": "John Ludlum McConnel",
+   "slug": "western-characters-or-types-of-border-life-in-the-western-st",
+   "slug_author": "john-ludlum-mcconnel"
+  },
+  {
+   "id": "23183",
+   "title": "Edmond Dant\u00e8s",
+   "author": "Edmund Flagg",
+   "slug": "edmond-dants",
+   "slug_author": "edmund-flagg"
+  },
+  {
+   "id": "23184",
+   "title": "Monte-Cristo's Daughter",
+   "author": "Edmund Flagg",
+   "slug": "montecristos-daughter",
+   "slug_author": "edmund-flagg"
+  },
+  {
+   "id": "23215",
+   "title": "Old Ebenezer",
+   "author": "Opie Percival Read",
+   "slug": "old-ebenezer",
+   "slug_author": "opie-percival-read"
+  },
+  {
+   "id": "23244",
+   "title": "The Dude Wrangler",
+   "author": "Caroline Lockhart",
+   "slug": "the-dude-wrangler",
+   "slug_author": "caroline-lockhart"
+  },
+  {
+   "id": "23284",
+   "title": "Impressions of America During the Years 1833, 1834 and 1835. Volume 2 (of 2)",
+   "author": "Tyrone Power",
+   "slug": "impressions-of-america-during-the-years-1833-1834-and-1835-v",
+   "slug_author": "tyrone-power"
+  },
+  {
+   "id": "23286",
+   "title": "The Rover Boys Under Canvas; Or, The Mystery of the Wrecked Submarine",
+   "author": "Edward Stratemeyer",
+   "slug": "the-rover-boys-under-canvas-or-the-mystery-of-the-wrecked-su",
+   "slug_author": "edward-stratemeyer"
+  },
+  {
+   "id": "23299",
+   "title": "Stradella",
+   "author": "F. Marion Crawford",
+   "slug": "stradella",
+   "slug_author": "f-marion-crawford"
+  },
+  {
+   "id": "23347",
+   "title": "Mental Efficiency, and Other Hints to Men and Women",
+   "author": "Arnold Bennett",
+   "slug": "mental-efficiency-and-other-hints-to-men-and-women",
+   "slug_author": "arnold-bennett"
+  },
+  {
+   "id": "23351",
+   "title": "The Yacht Club; or, The Young Boat-Builder",
+   "author": "Oliver Optic",
+   "slug": "the-yacht-club-or-the-young-boatbuilder",
+   "slug_author": "oliver-optic"
+  },
+  {
+   "id": "23409",
+   "title": "Acadia / or, A Month with the Blue Noses",
+   "author": "Frederic S. Cozzens",
+   "slug": "acadia-or-a-month-with-the-blue-noses",
+   "slug_author": "frederic-s-cozzens"
+  },
+  {
+   "id": "23474",
+   "title": "The Bishop's Secret",
+   "author": "Fergus Hume",
+   "slug": "the-bishops-secret",
+   "slug_author": "fergus-hume"
+  },
+  {
+   "id": "23489",
+   "title": "Godfrey Morgan: A Californian Mystery",
+   "author": "Jules Verne",
+   "slug": "godfrey-morgan-a-californian-mystery",
+   "slug_author": "jules-verne"
+  },
+  {
+   "id": "23495",
+   "title": "The Story of the Greeks",
+   "author": "H. A. Guerber",
+   "slug": "the-story-of-the-greeks",
+   "slug_author": "h-a-guerber"
+  },
+  {
+   "id": "2350",
+   "title": "His last bow",
+   "author": "Arthur Conan Doyle",
+   "slug": "his-last-bow",
+   "slug_author": "arthur-conan-doyle"
+  },
+  {
+   "id": "23500",
+   "title": "The Car of Destiny",
+   "author": "C. N. Williamson",
+   "slug": "the-car-of-destiny",
+   "slug_author": "c-n-williamson"
+  },
+  {
+   "id": "23530",
+   "title": "Adventures in Many Lands",
+   "author": "Various",
+   "slug": "adventures-in-many-lands",
+   "slug_author": "various"
+  },
+  {
+   "id": "23531",
+   "title": "Marjorie's Busy Days",
+   "author": "Carolyn Wells",
+   "slug": "marjories-busy-days",
+   "slug_author": "carolyn-wells"
+  },
+  {
+   "id": "23546",
+   "title": "Wealth of the World's Waste Places and Oceania",
+   "author": "Jewett C. Gilson",
+   "slug": "wealth-of-the-worlds-waste-places-and-oceania",
+   "slug_author": "jewett-c-gilson"
+  },
+  {
+   "id": "236",
+   "title": "The Jungle Book",
+   "author": "Rudyard Kipling",
+   "slug": "the-jungle-book",
+   "slug_author": "rudyard-kipling"
+  },
+  {
+   "id": "2360",
+   "title": "The Riddle of the Sands",
+   "author": "Erskine Childers",
+   "slug": "the-riddle-of-the-sands",
+   "slug_author": "erskine-childers"
+  },
+  {
+   "id": "23609",
+   "title": "Searchlights on Health: Light on Dark Corners / A Complete Sexual Science and a Guide to Purity and Physical Manhood, Advice To Maiden, Wife, And Mother, Love, Courtship, And Marriage",
+   "author": "B. G. Jefferis",
+   "slug": "searchlights-on-health-light-on-dark-corners-a-complete-sexu",
+   "slug_author": "b-g-jefferis"
+  },
+  {
+   "id": "23624",
+   "title": "Ride Proud, Rebel!",
+   "author": "Andre Norton",
+   "slug": "ride-proud-rebel",
+   "slug_author": "andre-norton"
+  },
+  {
+   "id": "23662",
+   "title": "The Heart of Unaga",
+   "author": "Ridgwell Cullum",
+   "slug": "the-heart-of-unaga",
+   "slug_author": "ridgwell-cullum"
+  },
+  {
+   "id": "23738",
+   "title": "The Thing from the Lake",
+   "author": "Eleanor M. Ingram",
+   "slug": "the-thing-from-the-lake",
+   "slug_author": "eleanor-m-ingram"
+  },
+  {
+   "id": "23745",
+   "title": "Aladdin & Co.: A Romance of Yankee Magic",
+   "author": "Herbert Quick",
+   "slug": "aladdin-co-a-romance-of-yankee-magic",
+   "slug_author": "herbert-quick"
+  },
+  {
+   "id": "23773",
+   "title": "The Coming Wave; Or, The Hidden Treasure of High Rock",
+   "author": "Oliver Optic",
+   "slug": "the-coming-wave-or-the-hidden-treasure-of-high-rock",
+   "slug_author": "oliver-optic"
+  },
+  {
+   "id": "23781",
+   "title": "A Little Girl of Long Ago; Or, Hannah Ann / A Sequel to a Little Girl in Old New York",
+   "author": "Amanda M. Douglas",
+   "slug": "a-little-girl-of-long-ago-or-hannah-ann-a-sequel-to-a-little",
+   "slug_author": "amanda-m-douglas"
+  },
+  {
+   "id": "23786",
+   "title": "A Little Girl in Old Boston",
+   "author": "Amanda M. Douglas",
+   "slug": "a-little-girl-in-old-boston",
+   "slug_author": "amanda-m-douglas"
+  },
+  {
+   "id": "23789",
+   "title": "Cruel as the grave",
+   "author": "Emma Dorothy Eliza Nevitte Southworth",
+   "slug": "cruel-as-the-grave",
+   "slug_author": "emma-dorothy-eliza-nevitte-southworth"
+  },
+  {
+   "id": "23790",
+   "title": "The Ultimate Weapon",
+   "author": "Jr. John W. Campbell",
+   "slug": "the-ultimate-weapon",
+   "slug_author": "jr-john-w-campbell"
+  },
+  {
+   "id": "23798",
+   "title": "Daniel Boone: The Pioneer of Kentucky",
+   "author": "John S. C. Abbott",
+   "slug": "daniel-boone-the-pioneer-of-kentucky",
+   "slug_author": "john-s-c-abbott"
+  },
+  {
+   "id": "23820",
+   "title": "The Life Radiant",
+   "author": "Lilian Whiting",
+   "slug": "the-life-radiant",
+   "slug_author": "lilian-whiting"
+  },
+  {
+   "id": "2413",
+   "title": "Madame Bovary",
+   "author": "Gustave Flaubert",
+   "slug": "madame-bovary",
+   "slug_author": "gustave-flaubert"
+  },
+  {
+   "id": "244",
+   "title": "A Study in Scarlet",
+   "author": "Arthur Conan Doyle",
+   "slug": "a-study-in-scarlet",
+   "slug_author": "arthur-conan-doyle"
+  },
+  {
+   "id": "245",
+   "title": "Life on the Mississippi",
+   "author": "Mark Twain",
+   "slug": "life-on-the-mississippi",
+   "slug_author": "mark-twain"
+  },
+  {
+   "id": "24645",
+   "title": "A harum-scarum schoolgirl",
+   "author": "Angela Brazil",
+   "slug": "a-harumscarum-schoolgirl",
+   "slug_author": "angela-brazil"
+  },
+  {
+   "id": "2465",
+   "title": "Carmen",
+   "author": "Prosper M\u00e9rim\u00e9e",
+   "slug": "carmen",
+   "slug_author": "prosper-mrime"
+  },
+  {
+   "id": "24737",
+   "title": "The Children of Odin: The Book of Northern Myths",
+   "author": "Padraic Colum",
+   "slug": "the-children-of-odin-the-book-of-northern-myths",
+   "slug_author": "padraic-colum"
+  },
+  {
+   "id": "24739",
+   "title": "Bidwell's Travels, from Wall Street to London Prison: Fifteen Years in Solitude",
+   "author": "Austin Bidwell",
+   "slug": "bidwells-travels-from-wall-street-to-london-prison-fifteen-y",
+   "slug_author": "austin-bidwell"
+  },
+  {
+   "id": "24754",
+   "title": "Wit and Wisdom of Don Quixote",
+   "author": "Miguel de Cervantes Saavedra",
+   "slug": "wit-and-wisdom-of-don-quixote",
+   "slug_author": "miguel-de-cervantes-saavedra"
+  },
+  {
+   "id": "24793",
+   "title": "Blow The Man Down: A Romance Of The Coast",
+   "author": "Holman Day",
+   "slug": "blow-the-man-down-a-romance-of-the-coast",
+   "slug_author": "holman-day"
+  },
+  {
+   "id": "24799",
+   "title": "The Escape of Mr. Trimm / His Plight and other Plights",
+   "author": "Irvin S. Cobb",
+   "slug": "the-escape-of-mr-trimm-his-plight-and-other-plights",
+   "slug_author": "irvin-s-cobb"
+  },
+  {
+   "id": "24873",
+   "title": "Lucy Maud Montgomery Short Stories, 1896 to 1901",
+   "author": "L. M. Montgomery",
+   "slug": "lucy-maud-montgomery-short-stories-1896-to-1901",
+   "slug_author": "l-m-montgomery"
+  },
+  {
+   "id": "24910",
+   "title": "The Last Woman",
+   "author": "Ross Beeckman",
+   "slug": "the-last-woman",
+   "slug_author": "ross-beeckman"
+  },
+  {
+   "id": "24929",
+   "title": "The Green Rust",
+   "author": "Edgar Wallace",
+   "slug": "the-green-rust",
+   "slug_author": "edgar-wallace"
+  },
+  {
+   "id": "24950",
+   "title": "Bradford's History of 'Plimoth Plantation' / From the Original Manuscript. With a Report of the Proceedings Incident to the Return of the Manuscript to Massachusetts",
+   "author": "William Bradford",
+   "slug": "bradfords-history-of-plimoth-plantation-from-the-original-ma",
+   "slug_author": "william-bradford"
+  },
+  {
+   "id": "2500",
+   "title": "Siddhartha",
+   "author": "Hermann Hesse",
+   "slug": "siddhartha",
+   "slug_author": "hermann-hesse"
+  },
+  {
+   "id": "25001",
+   "title": "An Old Man's Love",
+   "author": "Anthony Trollope",
+   "slug": "an-old-mans-love",
+   "slug_author": "anthony-trollope"
+  },
+  {
+   "id": "25079",
+   "title": "Queensland Cousins",
+   "author": "Eleanor Luisa Haverfield",
+   "slug": "queensland-cousins",
+   "slug_author": "eleanor-luisa-haverfield"
+  },
+  {
+   "id": "25088",
+   "title": "Famous Sea Fights, from Salamis to Tsu-Shima",
+   "author": "A. Hilliard Atteridge",
+   "slug": "famous-sea-fights-from-salamis-to-tsushima",
+   "slug_author": "a-hilliard-atteridge"
+  },
+  {
+   "id": "25092",
+   "title": "The Roman Traitor, Vol. 1",
+   "author": "Henry William Herbert",
+   "slug": "the-roman-traitor-vol-1",
+   "slug_author": "henry-william-herbert"
+  },
+  {
+   "id": "25132",
+   "title": "The Candidate: A Political Romance",
+   "author": "Joseph A. Altsheler",
+   "slug": "the-candidate-a-political-romance",
+   "slug_author": "joseph-a-altsheler"
+  },
+  {
+   "id": "25163",
+   "title": "At Good Old Siwash",
+   "author": "George Fitch",
+   "slug": "at-good-old-siwash",
+   "slug_author": "george-fitch"
+  },
+  {
+   "id": "25186",
+   "title": "The Border Watch: A Story of the Great Chief's Last Stand",
+   "author": "Joseph A. Altsheler",
+   "slug": "the-border-watch-a-story-of-the-great-chiefs-last-stand",
+   "slug_author": "joseph-a-altsheler"
+  },
+  {
+   "id": "25188",
+   "title": "The Flag",
+   "author": "Homer Greene",
+   "slug": "the-flag",
+   "slug_author": "homer-greene"
+  },
+  {
+   "id": "25256",
+   "title": "Traditions of Lancashire, Volume 2",
+   "author": "John Roby",
+   "slug": "traditions-of-lancashire-volume-2",
+   "slug_author": "john-roby"
+  },
+  {
+   "id": "2527",
+   "title": "The Sorrows of Young Werther",
+   "author": "Johann Wolfgang von Goethe",
+   "slug": "the-sorrows-of-young-werther",
+   "slug_author": "johann-wolfgang-von-goethe"
+  },
+  {
+   "id": "25272",
+   "title": "The Varmint",
+   "author": "Owen Johnson",
+   "slug": "the-varmint",
+   "slug_author": "owen-johnson"
+  },
+  {
+   "id": "25299",
+   "title": "Wood Magic: A Fable",
+   "author": "Richard Jefferies",
+   "slug": "wood-magic-a-fable",
+   "slug_author": "richard-jefferies"
+  },
+  {
+   "id": "25305",
+   "title": "Memoirs of Fanny Hill / A New and Genuine Edition from the Original Text (London, 1749)",
+   "author": "John Cleland",
+   "slug": "memoirs-of-fanny-hill-a-new-and-genuine-edition-from-the-ori",
+   "slug_author": "john-cleland"
+  },
+  {
+   "id": "25316",
+   "title": "Frank Merriwell's Son; Or, A Chip Off the Old Block",
+   "author": "Burt L. Standish",
+   "slug": "frank-merriwells-son-or-a-chip-off-the-old-block",
+   "slug_author": "burt-l-standish"
+  },
+  {
+   "id": "25326",
+   "title": "Lives of the Most Eminent Painters Sculptors and Architects, Vol. 01 (of 10) / Cimabue to Agnolo Gaddi",
+   "author": "Giorgio Vasari",
+   "slug": "lives-of-the-most-eminent-painters-sculptors-and-architects-",
+   "slug_author": "giorgio-vasari"
+  },
+  {
+   "id": "25344",
+   "title": "The Scarlet Letter",
+   "author": "Nathaniel Hawthorne",
+   "slug": "the-scarlet-letter",
+   "slug_author": "nathaniel-hawthorne"
+  },
+  {
+   "id": "25359",
+   "title": "Boys and Girls Bookshelf; a Practical Plan of Character Building, Volume I (of 17) / Fun and Thought for Little Folk",
+   "author": "Various",
+   "slug": "boys-and-girls-bookshelf-a-practical-plan-of-character-build",
+   "slug_author": "various"
+  },
+  {
+   "id": "25371",
+   "title": "Northern Travel: Summer and Winter Pictures of Sweden, Denmark and Lapland",
+   "author": "Bayard Taylor",
+   "slug": "northern-travel-summer-and-winter-pictures-of-sweden-denmark",
+   "slug_author": "bayard-taylor"
+  },
+  {
+   "id": "2541",
+   "title": "Character",
+   "author": "Samuel Smiles",
+   "slug": "character",
+   "slug_author": "samuel-smiles"
+  },
+  {
+   "id": "25424",
+   "title": "In the Mayor's Parlour",
+   "author": "J. S. Fletcher",
+   "slug": "in-the-mayors-parlour",
+   "slug_author": "j-s-fletcher"
+  },
+  {
+   "id": "25430",
+   "title": "The Innocents: A Story for Lovers",
+   "author": "Sinclair Lewis",
+   "slug": "the-innocents-a-story-for-lovers",
+   "slug_author": "sinclair-lewis"
+  },
+  {
+   "id": "25440",
+   "title": "An Undivided Union",
+   "author": "Oliver Optic",
+   "slug": "an-undivided-union",
+   "slug_author": "oliver-optic"
+  },
+  {
+   "id": "25456",
+   "title": "Princess Polly At Play",
+   "author": "Amy Brooks",
+   "slug": "princess-polly-at-play",
+   "slug_author": "amy-brooks"
+  },
+  {
+   "id": "25465",
+   "title": "Skippy Bedelle / His Sentimental Progress From the Urchin to the Complete Man of the World",
+   "author": "Owen Johnson",
+   "slug": "skippy-bedelle-his-sentimental-progress-from-the-urchin-to-t",
+   "slug_author": "owen-johnson"
+  },
+  {
+   "id": "25485",
+   "title": "Dikes and Ditches; Or, Young America in Holland and Belgium",
+   "author": "Oliver Optic",
+   "slug": "dikes-and-ditches-or-young-america-in-holland-and-belgium",
+   "slug_author": "oliver-optic"
+  },
+  {
+   "id": "25502",
+   "title": "Hero-Myths & Legends of the British Race",
+   "author": "M. I. Ebbutt",
+   "slug": "heromyths-legends-of-the-british-race",
+   "slug_author": "m-i-ebbutt"
+  },
+  {
+   "id": "25505",
+   "title": "The Merryweathers",
+   "author": "Laura Elizabeth Howe Richards",
+   "slug": "the-merryweathers",
+   "slug_author": "laura-elizabeth-howe-richards"
+  },
+  {
+   "id": "25555",
+   "title": "Fairy Tales of the Slav Peasants and Herdsmen",
+   "author": "Alexander Chodzko",
+   "slug": "fairy-tales-of-the-slav-peasants-and-herdsmen",
+   "slug_author": "alexander-chodzko"
+  },
+  {
+   "id": "25564",
+   "title": "The Water-Babies: A Fairy Tale for a Land-Baby",
+   "author": "Charles Kingsley",
+   "slug": "the-waterbabies-a-fairy-tale-for-a-landbaby",
+   "slug_author": "charles-kingsley"
+  },
+  {
+   "id": "25569",
+   "title": "An African Adventure",
+   "author": "Isaac Frederick Marcosson",
+   "slug": "an-african-adventure",
+   "slug_author": "isaac-frederick-marcosson"
+  },
+  {
+   "id": "25581",
+   "title": "Rinkitink in Oz",
+   "author": "L. Frank Baum",
+   "slug": "rinkitink-in-oz",
+   "slug_author": "l-frank-baum"
+  },
+  {
+   "id": "25651",
+   "title": "With Spurs of Gold: Heroes of Chivalry and their Deeds",
+   "author": "Frances Nimmo Greene",
+   "slug": "with-spurs-of-gold-heroes-of-chivalry-and-their-deeds",
+   "slug_author": "frances-nimmo-greene"
+  },
+  {
+   "id": "25656",
+   "title": "The Mystery of a Turkish Bath",
+   "author": "Rita",
+   "slug": "the-mystery-of-a-turkish-bath",
+   "slug_author": "rita"
+  },
+  {
+   "id": "25672",
+   "title": "In The Boyhood of Lincoln / A Tale of the Tunker Schoolmaster and the Times of Black Hawk",
+   "author": "Hezekiah Butterworth",
+   "slug": "in-the-boyhood-of-lincoln-a-tale-of-the-tunker-schoolmaster-",
+   "slug_author": "hezekiah-butterworth"
+  },
+  {
+   "id": "25695",
+   "title": "The Diamond Coterie",
+   "author": "Lawrence L. Lynch",
+   "slug": "the-diamond-coterie",
+   "slug_author": "lawrence-l-lynch"
+  },
+  {
+   "id": "25702",
+   "title": "The Kingdom Round the Corner: A Novel",
+   "author": "Coningsby Dawson",
+   "slug": "the-kingdom-round-the-corner-a-novel",
+   "slug_author": "coningsby-dawson"
+  },
+  {
+   "id": "25709",
+   "title": "A Practical View of the Prevailing Religious System of Professed Christians, in the Middle and Higher Classes in this Country, Contrasted with Real Christianity.",
+   "author": "William Wilberforce",
+   "slug": "a-practical-view-of-the-prevailing-religious-system-of-profe",
+   "slug_author": "william-wilberforce"
+  },
+  {
+   "id": "25759",
+   "title": "Lives of the Most Eminent Painters Sculptors and Architects, Vol. 02 (of 10) / Berna to Michelozzo Michelozzi",
+   "author": "Giorgio Vasari",
+   "slug": "lives-of-the-most-eminent-painters-sculptors-and-architects-",
+   "slug_author": "giorgio-vasari"
+  },
+  {
+   "id": "25778",
+   "title": "Polly's Business Venture",
+   "author": "Lillian Elizabeth Roy",
+   "slug": "pollys-business-venture",
+   "slug_author": "lillian-elizabeth-roy"
+  },
+  {
+   "id": "25799",
+   "title": "The Girl and the Bill / An American Story of Mystery, Romance and Adventure",
+   "author": "Bannister Merwin",
+   "slug": "the-girl-and-the-bill-an-american-story-of-mystery-romance-a",
+   "slug_author": "bannister-merwin"
+  },
+  {
+   "id": "25802",
+   "title": "Ruth Fielding on the St. Lawrence; Or, The Queer Old Man of the Thousand Islands",
+   "author": "Alice B. Emerson",
+   "slug": "ruth-fielding-on-the-st-lawrence-or-the-queer-old-man-of-the",
+   "slug_author": "alice-b-emerson"
+  },
+  {
+   "id": "25804",
+   "title": "The Children's Book of London",
+   "author": "G. E. Mitton",
+   "slug": "the-childrens-book-of-london",
+   "slug_author": "g-e-mitton"
+  },
+  {
+   "id": "25813",
+   "title": "Isle o' Dreams",
+   "author": "Frederick Ferdinand Moore",
+   "slug": "isle-o-dreams",
+   "slug_author": "frederick-ferdinand-moore"
+  },
+  {
+   "id": "25820",
+   "title": "The Silver Butterfly",
+   "author": "Mrs. Wilson Woodrow",
+   "slug": "the-silver-butterfly",
+   "slug_author": "mrs-wilson-woodrow"
+  },
+  {
+   "id": "25835",
+   "title": "The Branding Iron",
+   "author": "Katharine Newlin Burt",
+   "slug": "the-branding-iron",
+   "slug_author": "katharine-newlin-burt"
+  },
+  {
+   "id": "25849",
+   "title": "The Launch Boys' Adventures in Northern Waters",
+   "author": "Edward Sylvester Ellis",
+   "slug": "the-launch-boys-adventures-in-northern-waters",
+   "slug_author": "edward-sylvester-ellis"
+  },
+  {
+   "id": "25868",
+   "title": "The Young Railroaders / Tales of Adventure and Ingenuity",
+   "author": "Francis Lovell Coombs",
+   "slug": "the-young-railroaders-tales-of-adventure-and-ingenuity",
+   "slug_author": "francis-lovell-coombs"
+  },
+  {
+   "id": "25869",
+   "title": "Patty's Success",
+   "author": "Carolyn Wells",
+   "slug": "pattys-success",
+   "slug_author": "carolyn-wells"
+  },
+  {
+   "id": "25873",
+   "title": "The Motor Girls on Crystal Bay; or, The Secret of the Red Oar",
+   "author": "Margaret Penrose",
+   "slug": "the-motor-girls-on-crystal-bay-or-the-secret-of-the-red-oar",
+   "slug_author": "margaret-penrose"
+  },
+  {
+   "id": "2591",
+   "title": "Grimms' Fairy Tales",
+   "author": "Jacob Grimm",
+   "slug": "grimms-fairy-tales",
+   "slug_author": "jacob-grimm"
+  },
+  {
+   "id": "25910",
+   "title": "The Long Portage",
+   "author": "Harold Bindloss",
+   "slug": "the-long-portage",
+   "slug_author": "harold-bindloss"
+  },
+  {
+   "id": "25919",
+   "title": "Miss Mapp",
+   "author": "E. F. Benson",
+   "slug": "miss-mapp",
+   "slug_author": "e-f-benson"
+  },
+  {
+   "id": "25929",
+   "title": "Daemonologie.",
+   "author": "King of England James I",
+   "slug": "daemonologie",
+   "slug_author": "king-of-england-james-i"
+  },
+  {
+   "id": "25967",
+   "title": "Rufus and Rose; Or, The Fortunes of Rough and Ready",
+   "author": "Jr. Horatio Alger",
+   "slug": "rufus-and-rose-or-the-fortunes-of-rough-and-ready",
+   "slug_author": "jr-horatio-alger"
+  },
+  {
+   "id": "25971",
+   "title": "The Creators: A Comedy",
+   "author": "May Sinclair",
+   "slug": "the-creators-a-comedy",
+   "slug_author": "may-sinclair"
+  },
+  {
+   "id": "25972",
+   "title": "Two little travellers",
+   "author": "Frances Browne Arthur",
+   "slug": "two-little-travellers",
+   "slug_author": "frances-browne-arthur"
+  },
+  {
+   "id": "25982",
+   "title": "Thrilling Narratives of Mutiny, Murder and Piracy / A weird series of tales of shipwreck and disaster, from the earliest part of the century to the present time, with accounts of providential escapes and heart-rending fatalities.",
+   "author": "Anonymous",
+   "slug": "thrilling-narratives-of-mutiny-murder-and-piracy-a-weird-ser",
+   "slug_author": "anonymous"
+  },
+  {
+   "id": "25986",
+   "title": "Tongues of Conscience",
+   "author": "Robert Hichens",
+   "slug": "tongues-of-conscience",
+   "slug_author": "robert-hichens"
+  },
+  {
+   "id": "25993",
+   "title": "With Cochrane the Dauntless",
+   "author": "G. A. Henty",
+   "slug": "with-cochrane-the-dauntless",
+   "slug_author": "g-a-henty"
+  },
+  {
+   "id": "25997",
+   "title": "Air Service Boys Flying for Victory; Or, Bombing the Last German Stronghold",
+   "author": "Charles Amory Beach",
+   "slug": "air-service-boys-flying-for-victory-or-bombing-the-last-germ",
+   "slug_author": "charles-amory-beach"
+  },
+  {
+   "id": "26009",
+   "title": "Adventures of a Young Naturalist",
+   "author": "Lucien Biart",
+   "slug": "adventures-of-a-young-naturalist",
+   "slug_author": "lucien-biart"
+  },
+  {
+   "id": "26011",
+   "title": "The Prairie Mother",
+   "author": "Arthur Stringer",
+   "slug": "the-prairie-mother",
+   "slug_author": "arthur-stringer"
+  },
+  {
+   "id": "26031",
+   "title": "Memoirs and Correspondence of Admiral Lord de Saumarez, Vol. I",
+   "author": "Sir John Ross",
+   "slug": "memoirs-and-correspondence-of-admiral-lord-de-saumarez-vol-i",
+   "slug_author": "sir-john-ross"
+  },
+  {
+   "id": "26061",
+   "title": "The Gold Girl",
+   "author": "James B. Hendryx",
+   "slug": "the-gold-girl",
+   "slug_author": "james-b-hendryx"
+  },
+  {
+   "id": "26085",
+   "title": "Robin Redbreast: A Story for Girls",
+   "author": "Mrs. Molesworth",
+   "slug": "robin-redbreast-a-story-for-girls",
+   "slug_author": "mrs-molesworth"
+  },
+  {
+   "id": "2610",
+   "title": "Notre-Dame de Paris",
+   "author": "Victor Hugo",
+   "slug": "notredame-de-paris",
+   "slug_author": "victor-hugo"
+  },
+  {
+   "id": "26149",
+   "title": "Left Guard Gilbert",
+   "author": "Ralph Henry Barbour",
+   "slug": "left-guard-gilbert",
+   "slug_author": "ralph-henry-barbour"
+  },
+  {
+   "id": "26154",
+   "title": "The Joyous Adventures of Aristide Pujol",
+   "author": "William John Locke",
+   "slug": "the-joyous-adventures-of-aristide-pujol",
+   "slug_author": "william-john-locke"
+  },
+  {
+   "id": "26160",
+   "title": "Dave Porter and His Rivals; or, The Chums and Foes of Oak Hall",
+   "author": "Edward Stratemeyer",
+   "slug": "dave-porter-and-his-rivals-or-the-chums-and-foes-of-oak-hall",
+   "slug_author": "edward-stratemeyer"
+  },
+  {
+   "id": "26215",
+   "title": "The Little Colonel's Christmas Vacation",
+   "author": "Annie F. Johnston",
+   "slug": "the-little-colonels-christmas-vacation",
+   "slug_author": "annie-f-johnston"
+  },
+  {
+   "id": "26233",
+   "title": "The Indifference of Juliet",
+   "author": "Grace S. Richmond",
+   "slug": "the-indifference-of-juliet",
+   "slug_author": "grace-s-richmond"
+  },
+  {
+   "id": "26235",
+   "title": "The Mistress of Shenstone",
+   "author": "Florence L. Barclay",
+   "slug": "the-mistress-of-shenstone",
+   "slug_author": "florence-l-barclay"
+  },
+  {
+   "id": "26258",
+   "title": "Elizabeth Hobart at Exeter Hall",
+   "author": "Jean K. Baird",
+   "slug": "elizabeth-hobart-at-exeter-hall",
+   "slug_author": "jean-k-baird"
+  },
+  {
+   "id": "26259",
+   "title": "Her mother's secret",
+   "author": "Emma Dorothy Eliza Nevitte Southworth",
+   "slug": "her-mothers-secret",
+   "slug_author": "emma-dorothy-eliza-nevitte-southworth"
+  },
+  {
+   "id": "26277",
+   "title": "Margarita's Soul: The Romantic Recollections of a Man of Fifty",
+   "author": "Josephine Daskam Bacon",
+   "slug": "margaritas-soul-the-romantic-recollections-of-a-man-of-fifty",
+   "slug_author": "josephine-daskam-bacon"
+  },
+  {
+   "id": "26324",
+   "title": "Ravensdene Court",
+   "author": "J. S. Fletcher",
+   "slug": "ravensdene-court",
+   "slug_author": "j-s-fletcher"
+  },
+  {
+   "id": "26382",
+   "title": "Ancient America, in Notes on American Archaeology",
+   "author": "John D. Baldwin",
+   "slug": "ancient-america-in-notes-on-american-archaeology",
+   "slug_author": "john-d-baldwin"
+  },
+  {
+   "id": "26386",
+   "title": "Laboulaye's Fairy Book",
+   "author": "\u00c9douard Laboulaye",
+   "slug": "laboulayes-fairy-book",
+   "slug_author": "douard-laboulaye"
+  },
+  {
+   "id": "26392",
+   "title": "The Hero of Garside School",
+   "author": "J. Harwood Panting",
+   "slug": "the-hero-of-garside-school",
+   "slug_author": "j-harwood-panting"
+  },
+  {
+   "id": "26408",
+   "title": "A Budget of Paradoxes, Volume II",
+   "author": "Augustus De Morgan",
+   "slug": "a-budget-of-paradoxes-volume-ii",
+   "slug_author": "augustus-de-morgan"
+  },
+  {
+   "id": "2641",
+   "title": "A Room with a View",
+   "author": "E. M. Forster",
+   "slug": "a-room-with-a-view",
+   "slug_author": "e-m-forster"
+  },
+  {
+   "id": "26482",
+   "title": "Madeline Payne, the Detective's Daughter",
+   "author": "Lawrence L. Lynch",
+   "slug": "madeline-payne-the-detectives-daughter",
+   "slug_author": "lawrence-l-lynch"
+  },
+  {
+   "id": "26485",
+   "title": "The Making of Bobby Burnit / Being a Record of the Adventures of a Live American Young Man",
+   "author": "George Randolph Chester",
+   "slug": "the-making-of-bobby-burnit-being-a-record-of-the-adventures-",
+   "slug_author": "george-randolph-chester"
+  },
+  {
+   "id": "26514",
+   "title": "The Iron Pirate: A Plain Tale of Strange Happenings on the Sea",
+   "author": "Max Pemberton",
+   "slug": "the-iron-pirate-a-plain-tale-of-strange-happenings-on-the-se",
+   "slug_author": "max-pemberton"
+  },
+  {
+   "id": "26528",
+   "title": "Odd Numbers / Being Further Chronicles of Shorty McCabe",
+   "author": "Sewell Ford",
+   "slug": "odd-numbers-being-further-chronicles-of-shorty-mccabe",
+   "slug_author": "sewell-ford"
+  },
+  {
+   "id": "26539",
+   "title": "The Rover Boys at Big Horn Ranch; Or, The Cowboys' Double Round-Up",
+   "author": "Edward Stratemeyer",
+   "slug": "the-rover-boys-at-big-horn-ranch-or-the-cowboys-double-round",
+   "slug_author": "edward-stratemeyer"
+  },
+  {
+   "id": "26543",
+   "title": "Clematis",
+   "author": "Bertha B. Cobb",
+   "slug": "clematis",
+   "slug_author": "bertha-b-cobb"
+  },
+  {
+   "id": "26560",
+   "title": "Jim Spurling, Fisherman / or Making Good",
+   "author": "Albert Walter Tolman",
+   "slug": "jim-spurling-fisherman-or-making-good",
+   "slug_author": "albert-walter-tolman"
+  },
+  {
+   "id": "26563",
+   "title": "The Crack of Doom",
+   "author": "Robert Cromie",
+   "slug": "the-crack-of-doom",
+   "slug_author": "robert-cromie"
+  },
+  {
+   "id": "26593",
+   "title": "The Place of Honeymoons",
+   "author": "Harold MacGrath",
+   "slug": "the-place-of-honeymoons",
+   "slug_author": "harold-macgrath"
+  },
+  {
+   "id": "26654",
+   "title": "Peter and Wendy",
+   "author": "J. M. Barrie",
+   "slug": "peter-and-wendy",
+   "slug_author": "j-m-barrie"
+  },
+  {
+   "id": "26657",
+   "title": "The Motor Pirate",
+   "author": "G. Sidney Paternoster",
+   "slug": "the-motor-pirate",
+   "slug_author": "g-sidney-paternoster"
+  },
+  {
+   "id": "26692",
+   "title": "A Daughter of Raasay: A Tale of the '45",
+   "author": "William MacLeod Raine",
+   "slug": "a-daughter-of-raasay-a-tale-of-the-45",
+   "slug_author": "william-macleod-raine"
+  },
+  {
+   "id": "26703",
+   "title": "The Children's Book of Celebrated Pictures",
+   "author": "Lorinda Munson Bryant",
+   "slug": "the-childrens-book-of-celebrated-pictures",
+   "slug_author": "lorinda-munson-bryant"
+  },
+  {
+   "id": "26704",
+   "title": "A Woman at Bay; Or, A Fiend in Skirts",
+   "author": "Nicholas Carter",
+   "slug": "a-woman-at-bay-or-a-fiend-in-skirts",
+   "slug_author": "nicholas-carter"
+  },
+  {
+   "id": "26711",
+   "title": "Jewish Fairy Tales and Legends",
+   "author": "Gertrude Landa",
+   "slug": "jewish-fairy-tales-and-legends",
+   "slug_author": "gertrude-landa"
+  },
+  {
+   "id": "26732",
+   "title": "Free Air",
+   "author": "Sinclair Lewis",
+   "slug": "free-air",
+   "slug_author": "sinclair-lewis"
+  },
+  {
+   "id": "26745",
+   "title": "Travels in Peru, on the Coast, in the Sierra, Across the Cordilleras and the Andes, into the Primeval Forests",
+   "author": "Johann Jakob von Tschudi",
+   "slug": "travels-in-peru-on-the-coast-in-the-sierra-across-the-cordil",
+   "slug_author": "johann-jakob-von-tschudi"
+  },
+  {
+   "id": "26778",
+   "title": "The Ocean Wireless Boys and the Naval Code",
+   "author": "John Henry Goldfrap",
+   "slug": "the-ocean-wireless-boys-and-the-naval-code",
+   "slug_author": "john-henry-goldfrap"
+  },
+  {
+   "id": "2680",
+   "title": "Meditations",
+   "author": "Emperor of Rome Marcus Aurelius",
+   "slug": "meditations",
+   "slug_author": "emperor-of-rome-marcus-aurelius"
+  },
+  {
+   "id": "26860",
+   "title": "Lives of the Most Eminent Painters Sculptors and Architects, Vol. 03 (of 10) / Filarete and Simone to Mantegna",
+   "author": "Giorgio Vasari",
+   "slug": "lives-of-the-most-eminent-painters-sculptors-and-architects-",
+   "slug_author": "giorgio-vasari"
+  },
+  {
+   "id": "26862",
+   "title": "Howard Pyle's Book of pirates : fiction, fact & fancy concerning the buccaneers & marooners of the Spanish Main",
+   "author": "Howard Pyle",
+   "slug": "howard-pyles-book-of-pirates-fiction-fact-fancy-concerning-t",
+   "slug_author": "howard-pyle"
+  },
+  {
+   "id": "26907",
+   "title": "The Cornwall Coast",
+   "author": "Arthur L. Salmon",
+   "slug": "the-cornwall-coast",
+   "slug_author": "arthur-l-salmon"
+  },
+  {
+   "id": "26911",
+   "title": "Crooked Trails and Straight",
+   "author": "William MacLeod Raine",
+   "slug": "crooked-trails-and-straight",
+   "slug_author": "william-macleod-raine"
+  },
+  {
+   "id": "26950",
+   "title": "Humorous Ghost Stories",
+   "author": "Dorothy Scarborough",
+   "slug": "humorous-ghost-stories",
+   "slug_author": "dorothy-scarborough"
+  },
+  {
+   "id": "26951",
+   "title": "'Firebrand' Trevison",
+   "author": "Charles Alden Seltzer",
+   "slug": "firebrand-trevison",
+   "slug_author": "charles-alden-seltzer"
+  },
+  {
+   "id": "26960",
+   "title": "Famous Privateersmen and Adventurers of the Sea / Their rovings, cruises, escapades, and fierce battling upon the ocean for patriotism and for treasure",
+   "author": "Charles H. L. Johnston",
+   "slug": "famous-privateersmen-and-adventurers-of-the-sea-their-roving",
+   "slug_author": "charles-h-l-johnston"
+  },
+  {
+   "id": "26973",
+   "title": "Hester's Counterpart: A Story of Boarding School Life",
+   "author": "Jean K. Baird",
+   "slug": "hesters-counterpart-a-story-of-boarding-school-life",
+   "slug_author": "jean-k-baird"
+  },
+  {
+   "id": "26984",
+   "title": "Across the Mesa",
+   "author": "Helen Bagg",
+   "slug": "across-the-mesa",
+   "slug_author": "helen-bagg"
+  },
+  {
+   "id": "26994",
+   "title": "When Life Was Young: At the Old Farm in Maine",
+   "author": "C. A. Stephens",
+   "slug": "when-life-was-young-at-the-old-farm-in-maine",
+   "slug_author": "c-a-stephens"
+  },
+  {
+   "id": "27021",
+   "title": "An Explorer's Adventures in Tibet",
+   "author": "Arnold Henry Savage Landor",
+   "slug": "an-explorers-adventures-in-tibet",
+   "slug_author": "arnold-henry-savage-landor"
+  },
+  {
+   "id": "2707",
+   "title": "The History of Herodotus \u2014 Volume 1",
+   "author": "Herodotus",
+   "slug": "the-history-of-herodotus-volume-1",
+   "slug_author": "herodotus"
+  },
+  {
+   "id": "271",
+   "title": "Black Beauty",
+   "author": "Anna Sewell",
+   "slug": "black-beauty",
+   "slug_author": "anna-sewell"
+  },
+  {
+   "id": "27112",
+   "title": "Children's Books and Their Illustrators",
+   "author": "Gleeson White",
+   "slug": "childrens-books-and-their-illustrators",
+   "slug_author": "gleeson-white"
+  },
+  {
+   "id": "27147",
+   "title": "The Stretton Street Affair",
+   "author": "William Le Queux",
+   "slug": "the-stretton-street-affair",
+   "slug_author": "william-le-queux"
+  },
+  {
+   "id": "27151",
+   "title": "Memoirs and Correspondence of Admiral Lord de Saumarez. Vol II",
+   "author": "Sir John Ross",
+   "slug": "memoirs-and-correspondence-of-admiral-lord-de-saumarez-vol-i",
+   "slug_author": "sir-john-ross"
+  },
+  {
+   "id": "27157",
+   "title": "Historic Boys: Their Endeavours, Their Achievements, and Their Times",
+   "author": "Elbridge S. Brooks",
+   "slug": "historic-boys-their-endeavours-their-achievements-and-their-",
+   "slug_author": "elbridge-s-brooks"
+  },
+  {
+   "id": "27232",
+   "title": "The White Mice",
+   "author": "Richard Harding Davis",
+   "slug": "the-white-mice",
+   "slug_author": "richard-harding-davis"
+  },
+  {
+   "id": "27284",
+   "title": "The Talking Horse, and Other Tales",
+   "author": "F. Anstey",
+   "slug": "the-talking-horse-and-other-tales",
+   "slug_author": "f-anstey"
+  },
+  {
+   "id": "27323",
+   "title": "Bird of Paradise",
+   "author": "Ada Leverson",
+   "slug": "bird-of-paradise",
+   "slug_author": "ada-leverson"
+  },
+  {
+   "id": "27337",
+   "title": "From the Car Behind",
+   "author": "Eleanor M. Ingram",
+   "slug": "from-the-car-behind",
+   "slug_author": "eleanor-m-ingram"
+  },
+  {
+   "id": "27338",
+   "title": "Baseball Joe Around the World; or, Pitching on a Grand Tour",
+   "author": "Lester Chadwick",
+   "slug": "baseball-joe-around-the-world-or-pitching-on-a-grand-tour",
+   "slug_author": "lester-chadwick"
+  },
+  {
+   "id": "27355",
+   "title": "Shoe-Bar Stratton",
+   "author": "Joseph Bushnell Ames",
+   "slug": "shoebar-stratton",
+   "slug_author": "joseph-bushnell-ames"
+  },
+  {
+   "id": "27362",
+   "title": "The Chronicles of a Gay Gordon",
+   "author": "J. M. Gordon",
+   "slug": "the-chronicles-of-a-gay-gordon",
+   "slug_author": "j-m-gordon"
+  },
+  {
+   "id": "27374",
+   "title": "A Young Man in a Hurry, and Other Short Stories",
+   "author": "Robert W. Chambers",
+   "slug": "a-young-man-in-a-hurry-and-other-short-stories",
+   "slug_author": "robert-w-chambers"
+  },
+  {
+   "id": "27394",
+   "title": "A New Guide for Emigrants to the West",
+   "author": "John Mason Peck",
+   "slug": "a-new-guide-for-emigrants-to-the-west",
+   "slug_author": "john-mason-peck"
+  },
+  {
+   "id": "27395",
+   "title": "The Slave of Silence",
+   "author": "Fred M. White",
+   "slug": "the-slave-of-silence",
+   "slug_author": "fred-m-white"
+  },
+  {
+   "id": "27432",
+   "title": "The Fifth Queen Crowned",
+   "author": "Ford Madox Ford",
+   "slug": "the-fifth-queen-crowned",
+   "slug_author": "ford-madox-ford"
+  },
+  {
+   "id": "27436",
+   "title": "Brand Blotters",
+   "author": "William MacLeod Raine",
+   "slug": "brand-blotters",
+   "slug_author": "william-macleod-raine"
+  },
+  {
+   "id": "27475",
+   "title": "That Girl Montana",
+   "author": "Marah Ellis Ryan",
+   "slug": "that-girl-montana",
+   "slug_author": "marah-ellis-ryan"
+  },
+  {
+   "id": "27476",
+   "title": "The Sign of the Spider",
+   "author": "Bertram Mitford",
+   "slug": "the-sign-of-the-spider",
+   "slug_author": "bertram-mitford"
+  },
+  {
+   "id": "27481",
+   "title": "A Wayfarer in China / Impressions of a trip across West China and Mongolia",
+   "author": "Elizabeth Kimball Kendall",
+   "slug": "a-wayfarer-in-china-impressions-of-a-trip-across-west-china-",
+   "slug_author": "elizabeth-kimball-kendall"
+  },
+  {
+   "id": "27511",
+   "title": "The Free Range",
+   "author": "Francis William Sullivan",
+   "slug": "the-free-range",
+   "slug_author": "francis-william-sullivan"
+  },
+  {
+   "id": "27513",
+   "title": "The Book of the National Parks",
+   "author": "Robert Sterling Yard",
+   "slug": "the-book-of-the-national-parks",
+   "slug_author": "robert-sterling-yard"
+  },
+  {
+   "id": "27521",
+   "title": "The Watchers of the Plains: A Tale of the Western Prairies",
+   "author": "Ridgwell Cullum",
+   "slug": "the-watchers-of-the-plains-a-tale-of-the-western-prairies",
+   "slug_author": "ridgwell-cullum"
+  },
+  {
+   "id": "27549",
+   "title": "The Seven Secrets",
+   "author": "William Le Queux",
+   "slug": "the-seven-secrets",
+   "slug_author": "william-le-queux"
+  },
+  {
+   "id": "27554",
+   "title": "The Twelfth Hour",
+   "author": "Ada Leverson",
+   "slug": "the-twelfth-hour",
+   "slug_author": "ada-leverson"
+  },
+  {
+   "id": "27575",
+   "title": "Madame Bovary: A Tale of Provincial Life, Vol. 1 (of 2)",
+   "author": "Gustave Flaubert",
+   "slug": "madame-bovary-a-tale-of-provincial-life-vol-1-of-2",
+   "slug_author": "gustave-flaubert"
+  },
+  {
+   "id": "27578",
+   "title": "Two Years with the Natives in the Western Pacific",
+   "author": "Felix Speiser",
+   "slug": "two-years-with-the-natives-in-the-western-pacific",
+   "slug_author": "felix-speiser"
+  },
+  {
+   "id": "27587",
+   "title": "A Victor of Salamis",
+   "author": "William Stearns Davis",
+   "slug": "a-victor-of-salamis",
+   "slug_author": "william-stearns-davis"
+  },
+  {
+   "id": "27613",
+   "title": "Reels and Spindles: A Story of Mill Life",
+   "author": "Evelyn Raymond",
+   "slug": "reels-and-spindles-a-story-of-mill-life",
+   "slug_author": "evelyn-raymond"
+  },
+  {
+   "id": "27661",
+   "title": "Master of the Vineyard",
+   "author": "Myrtle Reed",
+   "slug": "master-of-the-vineyard",
+   "slug_author": "myrtle-reed"
+  },
+  {
+   "id": "27666",
+   "title": "Seek and Find; or, The Adventures of a Smart Boy",
+   "author": "Oliver Optic",
+   "slug": "seek-and-find-or-the-adventures-of-a-smart-boy",
+   "slug_author": "oliver-optic"
+  },
+  {
+   "id": "27681",
+   "title": "The Last of the Mohicans: A Narrative of 1757",
+   "author": "James Fenimore Cooper",
+   "slug": "the-last-of-the-mohicans-a-narrative-of-1757",
+   "slug_author": "james-fenimore-cooper"
+  },
+  {
+   "id": "27743",
+   "title": "Through Finland in Carts",
+   "author": "Mrs. Alec-Tweedie",
+   "slug": "through-finland-in-carts",
+   "slug_author": "mrs-alectweedie"
+  },
+  {
+   "id": "27794",
+   "title": "Fant\u00f4mas",
+   "author": "Pierre Souvestre",
+   "slug": "fantmas",
+   "slug_author": "pierre-souvestre"
+  },
+  {
+   "id": "2781",
+   "title": "Just so stories",
+   "author": "Rudyard Kipling",
+   "slug": "just-so-stories",
+   "slug_author": "rudyard-kipling"
+  },
+  {
+   "id": "27881",
+   "title": "In Ch\u00e2teau Land",
+   "author": "Anne Hollingsworth Wharton",
+   "slug": "in-chteau-land",
+   "slug_author": "anne-hollingsworth-wharton"
+  },
+  {
+   "id": "27903",
+   "title": "The Magic World",
+   "author": "E. Nesbit",
+   "slug": "the-magic-world",
+   "slug_author": "e-nesbit"
+  },
+  {
+   "id": "27917",
+   "title": "The Strange Adventures of Mr. Middleton",
+   "author": "Wardon Allan Curtis",
+   "slug": "the-strange-adventures-of-mr-middleton",
+   "slug_author": "wardon-allan-curtis"
+  },
+  {
+   "id": "27949",
+   "title": "Daisy",
+   "author": "Susan Warner",
+   "slug": "daisy",
+   "slug_author": "susan-warner"
+  },
+  {
+   "id": "27997",
+   "title": "Robert Orange / Being a Continuation of the History of Robert Orange",
+   "author": "John Oliver Hobbes",
+   "slug": "robert-orange-being-a-continuation-of-the-history-of-robert-",
+   "slug_author": "john-oliver-hobbes"
+  },
+  {
+   "id": "28037",
+   "title": "In Doublet and Hose: A Story for Girls",
+   "author": "Lucy Foster Madison",
+   "slug": "in-doublet-and-hose-a-story-for-girls",
+   "slug_author": "lucy-foster-madison"
+  },
+  {
+   "id": "2806",
+   "title": "The Phantom 'Rickshaw, and Other Ghost Stories",
+   "author": "Rudyard Kipling",
+   "slug": "the-phantom-rickshaw-and-other-ghost-stories",
+   "slug_author": "rudyard-kipling"
+  },
+  {
+   "id": "28074",
+   "title": "The Buccaneer: A Tale",
+   "author": "Mrs. S. C. Hall",
+   "slug": "the-buccaneer-a-tale",
+   "slug_author": "mrs-s-c-hall"
+  },
+  {
+   "id": "2813",
+   "title": "The Grand Babylon H\u00f4tel",
+   "author": "Arnold Bennett",
+   "slug": "the-grand-babylon-htel",
+   "slug_author": "arnold-bennett"
+  },
+  {
+   "id": "28164",
+   "title": "The Big Bow Mystery",
+   "author": "Israel Zangwill",
+   "slug": "the-big-bow-mystery",
+   "slug_author": "israel-zangwill"
+  },
+  {
+   "id": "28203",
+   "title": "Moods",
+   "author": "Louisa May Alcott",
+   "slug": "moods",
+   "slug_author": "louisa-may-alcott"
+  },
+  {
+   "id": "28229",
+   "title": "Anderson Crow, Detective",
+   "author": "George Barr McCutcheon",
+   "slug": "anderson-crow-detective",
+   "slug_author": "george-barr-mccutcheon"
+  },
+  {
+   "id": "28236",
+   "title": "A Romantic Young Lady",
+   "author": "Robert Grant",
+   "slug": "a-romantic-young-lady",
+   "slug_author": "robert-grant"
+  },
+  {
+   "id": "2825",
+   "title": "Undine",
+   "author": "Freiherr de Friedrich Heinrich Karl La Motte-Fouqu\u00e9",
+   "slug": "undine",
+   "slug_author": "freiherr-de-friedrich-heinrich-karl-la-mottefouqu"
+  },
+  {
+   "id": "28294",
+   "title": "Pilgrimage from the Alps to the Tiber",
+   "author": "J. A. Wylie",
+   "slug": "pilgrimage-from-the-alps-to-the-tiber",
+   "slug_author": "j-a-wylie"
+  },
+  {
+   "id": "28329",
+   "title": "The Land of Thor",
+   "author": "J. Ross Browne",
+   "slug": "the-land-of-thor",
+   "slug_author": "j-ross-browne"
+  },
+  {
+   "id": "2833",
+   "title": "The Portrait of a Lady \u2014 Volume 1",
+   "author": "Henry James",
+   "slug": "the-portrait-of-a-lady-volume-1",
+   "slug_author": "henry-james"
+  },
+  {
+   "id": "28357",
+   "title": "By Conduct and Courage: A Story of the Days of Nelson",
+   "author": "G. A. Henty",
+   "slug": "by-conduct-and-courage-a-story-of-the-days-of-nelson",
+   "slug_author": "g-a-henty"
+  },
+  {
+   "id": "2852",
+   "title": "The Hound of the Baskervilles",
+   "author": "Arthur Conan Doyle",
+   "slug": "the-hound-of-the-baskervilles",
+   "slug_author": "arthur-conan-doyle"
+  },
+  {
+   "id": "28593",
+   "title": "When dreams come true",
+   "author": "Ritter Brown",
+   "slug": "when-dreams-come-true",
+   "slug_author": "ritter-brown"
+  },
+  {
+   "id": "28648",
+   "title": "A Little Girl in Old Philadelphia",
+   "author": "Amanda M. Douglas",
+   "slug": "a-little-girl-in-old-philadelphia",
+   "slug_author": "amanda-m-douglas"
+  },
+  {
+   "id": "28675",
+   "title": "Red Men and White",
+   "author": "Owen Wister",
+   "slug": "red-men-and-white",
+   "slug_author": "owen-wister"
+  },
+  {
+   "id": "2868",
+   "title": "The Green Mummy",
+   "author": "Fergus Hume",
+   "slug": "the-green-mummy",
+   "slug_author": "fergus-hume"
+  },
+  {
+   "id": "28780",
+   "title": "Peter the Brazen: A Mystery Story of Modern China",
+   "author": "George F. Worts",
+   "slug": "peter-the-brazen-a-mystery-story-of-modern-china",
+   "slug_author": "george-f-worts"
+  },
+  {
+   "id": "289",
+   "title": "The Wind in the Willows",
+   "author": "Kenneth Grahame",
+   "slug": "the-wind-in-the-willows",
+   "slug_author": "kenneth-grahame"
+  },
+  {
+   "id": "2895",
+   "title": "Following the Equator: A Journey Around the World",
+   "author": "Mark Twain",
+   "slug": "following-the-equator-a-journey-around-the-world",
+   "slug_author": "mark-twain"
+  },
+  {
+   "id": "29391",
+   "title": "Blue-grass and Broadway",
+   "author": "Maria Thompson Daviess",
+   "slug": "bluegrass-and-broadway",
+   "slug_author": "maria-thompson-daviess"
+  },
+  {
+   "id": "29868",
+   "title": "Love and Lucy",
+   "author": "Maurice Hewlett",
+   "slug": "love-and-lucy",
+   "slug_author": "maurice-hewlett"
+  },
+  {
+   "id": "30228",
+   "title": "Officer 666",
+   "author": "Barton Wood Currie",
+   "slug": "officer-666",
+   "slug_author": "barton-wood-currie"
+  },
+  {
+   "id": "30340",
+   "title": "The Passionate Friends",
+   "author": "H. G. Wells",
+   "slug": "the-passionate-friends",
+   "slug_author": "h-g-wells"
+  },
+  {
+   "id": "30434",
+   "title": "Occasion ... for Disaster",
+   "author": "Randall Garrett",
+   "slug": "occasion-for-disaster",
+   "slug_author": "randall-garrett"
+  },
+  {
+   "id": "3044",
+   "title": "Desperate Remedies",
+   "author": "Thomas Hardy",
+   "slug": "desperate-remedies",
+   "slug_author": "thomas-hardy"
+  },
+  {
+   "id": "308",
+   "title": "Three men in a boat (to say nothing of the dog)",
+   "author": "Jerome K. Jerome",
+   "slug": "three-men-in-a-boat-to-say-nothing-of-the-dog",
+   "slug_author": "jerome-k-jerome"
+  },
+  {
+   "id": "30849",
+   "title": "The Works of Robert Louis Stevenson - Swanston Edition, Vol. 20",
+   "author": "Robert Louis Stevenson",
+   "slug": "the-works-of-robert-louis-stevenson-swanston-edition-vol-20",
+   "slug_author": "robert-louis-stevenson"
+  },
+  {
+   "id": "31257",
+   "title": "Dainty's Cruel Rivals; Or, The Fatal Birthday",
+   "author": "Mrs. Alex. McVeigh Miller",
+   "slug": "daintys-cruel-rivals-or-the-fatal-birthday",
+   "slug_author": "mrs-alex-mcveigh-miller"
+  },
+  {
+   "id": "3146",
+   "title": "Two on a Tower",
+   "author": "Thomas Hardy",
+   "slug": "two-on-a-tower",
+   "slug_author": "thomas-hardy"
+  },
+  {
+   "id": "31472",
+   "title": "Cynthia's Chauffeur",
+   "author": "Louis Tracy",
+   "slug": "cynthias-chauffeur",
+   "slug_author": "louis-tracy"
+  },
+  {
+   "id": "31635",
+   "title": "The Silent Barrier",
+   "author": "Louis Tracy",
+   "slug": "the-silent-barrier",
+   "slug_author": "louis-tracy"
+  },
+  {
+   "id": "3176",
+   "title": "The Innocents Abroad",
+   "author": "Mark Twain",
+   "slug": "the-innocents-abroad",
+   "slug_author": "mark-twain"
+  },
+  {
+   "id": "3177",
+   "title": "Roughing It",
+   "author": "Mark Twain",
+   "slug": "roughing-it",
+   "slug_author": "mark-twain"
+  },
+  {
+   "id": "3178",
+   "title": "The Gilded Age: A Tale of Today",
+   "author": "Mark Twain",
+   "slug": "the-gilded-age-a-tale-of-today",
+   "slug_author": "mark-twain"
+  },
+  {
+   "id": "318",
+   "title": "John Barleycorn",
+   "author": "Jack London",
+   "slug": "john-barleycorn",
+   "slug_author": "jack-london"
+  },
+  {
+   "id": "3189",
+   "title": "Sketches New and Old",
+   "author": "Mark Twain",
+   "slug": "sketches-new-and-old",
+   "slug_author": "mark-twain"
+  },
+  {
+   "id": "32101",
+   "title": "The Crimson Gardenia and Other Tales of Adventure",
+   "author": "Rex Beach",
+   "slug": "the-crimson-gardenia-and-other-tales-of-adventure",
+   "slug_author": "rex-beach"
+  },
+  {
+   "id": "32398",
+   "title": "Brood of the Dark Moon / (A Sequel to \"Dark Moon\")",
+   "author": "Charles Willard Diffin",
+   "slug": "brood-of-the-dark-moon-a-sequel-to-dark-moon",
+   "slug_author": "charles-willard-diffin"
+  },
+  {
+   "id": "32474",
+   "title": "The Memoirs of the Conquistador Bernal Diaz del Castillo, Vol 1 (of 2) / Written by Himself Containing a True and Full Account of the Discovery and Conquest of Mexico and New Spain.",
+   "author": "Bernal D\u00edaz del Castillo",
+   "slug": "the-memoirs-of-the-conquistador-bernal-diaz-del-castillo-vol",
+   "slug_author": "bernal-daz-del-castillo"
+  },
+  {
+   "id": "32759",
+   "title": "Red Nails",
+   "author": "Robert E. Howard",
+   "slug": "red-nails",
+   "slug_author": "robert-e-howard"
+  },
+  {
+   "id": "3289",
+   "title": "The Valley of Fear",
+   "author": "Arthur Conan Doyle",
+   "slug": "the-valley-of-fear",
+   "slug_author": "arthur-conan-doyle"
+  },
+  {
+   "id": "3296",
+   "title": "The Confessions of St. Augustine",
+   "author": "Saint of Hippo Augustine",
+   "slug": "the-confessions-of-st-augustine",
+   "slug_author": "saint-of-hippo-augustine"
+  },
+  {
+   "id": "33118",
+   "title": "Just Around the Corner: Romance en casserole",
+   "author": "Fannie Hurst",
+   "slug": "just-around-the-corner-romance-en-casserole",
+   "slug_author": "fannie-hurst"
+  },
+  {
+   "id": "3321",
+   "title": "Children of the Whirlwind",
+   "author": "Leroy Scott",
+   "slug": "children-of-the-whirlwind",
+   "slug_author": "leroy-scott"
+  },
+  {
+   "id": "33644",
+   "title": "The Secret of the Ninth Planet",
+   "author": "Donald A. Wollheim",
+   "slug": "the-secret-of-the-ninth-planet",
+   "slug_author": "donald-a-wollheim"
+  },
+  {
+   "id": "33733",
+   "title": "The Guarded Heights",
+   "author": "Wadsworth Camp",
+   "slug": "the-guarded-heights",
+   "slug_author": "wadsworth-camp"
+  },
+  {
+   "id": "33823",
+   "title": "The Gay Adventure: A Romance",
+   "author": "Richard Bird",
+   "slug": "the-gay-adventure-a-romance",
+   "slug_author": "richard-bird"
+  },
+  {
+   "id": "33870",
+   "title": "Chess Fundamentals",
+   "author": "Jos\u00e9 Ra\u00fal Capablanca",
+   "slug": "chess-fundamentals",
+   "slug_author": "jos-ral-capablanca"
+  },
+  {
+   "id": "34181",
+   "title": "Irene Iddesleigh",
+   "author": "Amanda McKittrick Ros",
+   "slug": "irene-iddesleigh",
+   "slug_author": "amanda-mckittrick-ros"
+  },
+  {
+   "id": "34232",
+   "title": "From Kingdom to Colony",
+   "author": "Mary Devereux",
+   "slug": "from-kingdom-to-colony",
+   "slug_author": "mary-devereux"
+  },
+  {
+   "id": "35",
+   "title": "The Time Machine",
+   "author": "H. G. Wells",
+   "slug": "the-time-machine",
+   "slug_author": "h-g-wells"
+  },
+  {
+   "id": "35079",
+   "title": "The Rustle of Silk",
+   "author": "Cosmo Hamilton",
+   "slug": "the-rustle-of-silk",
+   "slug_author": "cosmo-hamilton"
+  },
+  {
+   "id": "3526",
+   "title": "Five Weeks in a Balloon / Or, Journeys and Discoveries in Africa by Three Englishmen",
+   "author": "Jules Verne",
+   "slug": "five-weeks-in-a-balloon-or-journeys-and-discoveries-in-afric",
+   "slug_author": "jules-verne"
+  },
+  {
+   "id": "3530",
+   "title": "Love-at-arms",
+   "author": "Rafael Sabatini",
+   "slug": "loveatarms",
+   "slug_author": "rafael-sabatini"
+  },
+  {
+   "id": "35548",
+   "title": "Doctor Cupid: A Novel",
+   "author": "Rhoda Broughton",
+   "slug": "doctor-cupid-a-novel",
+   "slug_author": "rhoda-broughton"
+  },
+  {
+   "id": "36223",
+   "title": "The Boy with Wings",
+   "author": "Berta Ruck",
+   "slug": "the-boy-with-wings",
+   "slug_author": "berta-ruck"
+  },
+  {
+   "id": "36346",
+   "title": "The Mandarin's Fan",
+   "author": "Fergus Hume",
+   "slug": "the-mandarins-fan",
+   "slug_author": "fergus-hume"
+  },
+  {
+   "id": "36360",
+   "title": "Faithful Margaret: A Novel",
+   "author": "Mrs. J. M. Simpson",
+   "slug": "faithful-margaret-a-novel",
+   "slug_author": "mrs-j-m-simpson"
+  },
+  {
+   "id": "36462",
+   "title": "King Arthur and the Knights of the Round Table",
+   "author": "Sir Thomas Malory",
+   "slug": "king-arthur-and-the-knights-of-the-round-table",
+   "slug_author": "sir-thomas-malory"
+  },
+  {
+   "id": "36725",
+   "title": "On the Cross: A Romance of the Passion Play at Oberammergau",
+   "author": "Wilhelmine von Hillern",
+   "slug": "on-the-cross-a-romance-of-the-passion-play-at-oberammergau",
+   "slug_author": "wilhelmine-von-hillern"
+  },
+  {
+   "id": "368",
+   "title": "Acres of Diamonds: Our Every-day Opportunities",
+   "author": "Russell H. Conwell",
+   "slug": "acres-of-diamonds-our-everyday-opportunities",
+   "slug_author": "russell-h-conwell"
+  },
+  {
+   "id": "37106",
+   "title": "Little Women; Or, Meg, Jo, Beth, and Amy",
+   "author": "Louisa May Alcott",
+   "slug": "little-women-or-meg-jo-beth-and-amy",
+   "slug_author": "louisa-may-alcott"
+  },
+  {
+   "id": "37423",
+   "title": "How We Think",
+   "author": "John Dewey",
+   "slug": "how-we-think",
+   "slug_author": "john-dewey"
+  },
+  {
+   "id": "3748",
+   "title": "A Journey into the Interior of the Earth",
+   "author": "Jules Verne",
+   "slug": "a-journey-into-the-interior-of-the-earth",
+   "slug_author": "jules-verne"
+  },
+  {
+   "id": "3800",
+   "title": "Ethics",
+   "author": "Benedictus de Spinoza",
+   "slug": "ethics",
+   "slug_author": "benedictus-de-spinoza"
+  },
+  {
+   "id": "38177",
+   "title": "The Passionate Elopement",
+   "author": "Compton MacKenzie",
+   "slug": "the-passionate-elopement",
+   "slug_author": "compton-mackenzie"
+  },
+  {
+   "id": "3823",
+   "title": "Thelma",
+   "author": "Marie Corelli",
+   "slug": "thelma",
+   "slug_author": "marie-corelli"
+  },
+  {
+   "id": "38250",
+   "title": "The Honour of Savelli: A Romance",
+   "author": "S. Levett Yeats",
+   "slug": "the-honour-of-savelli-a-romance",
+   "slug_author": "s-levett-yeats"
+  },
+  {
+   "id": "38311",
+   "title": "What Will People Say? A Novel",
+   "author": "Rupert Hughes",
+   "slug": "what-will-people-say-a-novel",
+   "slug_author": "rupert-hughes"
+  },
+  {
+   "id": "38427",
+   "title": "The World as Will and Idea (Vol. 1 of 3)",
+   "author": "Arthur Schopenhauer",
+   "slug": "the-world-as-will-and-idea-vol-1-of-3",
+   "slug_author": "arthur-schopenhauer"
+  },
+  {
+   "id": "38477",
+   "title": "In Jeopardy",
+   "author": "Van Tassel Sutphen",
+   "slug": "in-jeopardy",
+   "slug_author": "van-tassel-sutphen"
+  },
+  {
+   "id": "38703",
+   "title": "The Black Moth: A Romance of the XVIIIth Century",
+   "author": "Georgette Heyer",
+   "slug": "the-black-moth-a-romance-of-the-xviiith-century",
+   "slug_author": "georgette-heyer"
+  },
+  {
+   "id": "389",
+   "title": "The Great God Pan",
+   "author": "Arthur Machen",
+   "slug": "the-great-god-pan",
+   "slug_author": "arthur-machen"
+  },
+  {
+   "id": "3891",
+   "title": "Memoirs of the Court of Marie Antoinette, Queen of France, Complete / Being the Historic Memoirs of Madam Campan, First Lady in Waiting to the Queen",
+   "author": "Mme. Campan",
+   "slug": "memoirs-of-the-court-of-marie-antoinette-queen-of-france-com",
+   "slug_author": "mme-campan"
+  },
+  {
+   "id": "38983",
+   "title": "The Camp Fire Girls Solve a Mystery; Or, The Christmas Adventure at Carver House",
+   "author": "Hildegard G. Frey",
+   "slug": "the-camp-fire-girls-solve-a-mystery-or-the-christmas-adventu",
+   "slug_author": "hildegard-g-frey"
+  },
+  {
+   "id": "3922",
+   "title": "The Red Lily \u2014 Complete",
+   "author": "Anatole France",
+   "slug": "the-red-lily-complete",
+   "slug_author": "anatole-france"
+  },
+  {
+   "id": "393",
+   "title": "The Blue Lagoon: A Romance",
+   "author": "H. De Vere Stacpoole",
+   "slug": "the-blue-lagoon-a-romance",
+   "slug_author": "h-de-vere-stacpoole"
+  },
+  {
+   "id": "398",
+   "title": "The First Book of Adam and Eve",
+   "author": "Rutherford Hayes Platt",
+   "slug": "the-first-book-of-adam-and-eve",
+   "slug_author": "rutherford-hayes-platt"
+  },
+  {
+   "id": "39970",
+   "title": "The Hill of Venus",
+   "author": "Nathan Gallizier",
+   "slug": "the-hill-of-venus",
+   "slug_author": "nathan-gallizier"
+  },
+  {
+   "id": "40059",
+   "title": "Wanderfoot (The Dream Ship)",
+   "author": "Cynthia Stockley",
+   "slug": "wanderfoot-the-dream-ship",
+   "slug_author": "cynthia-stockley"
+  },
+  {
+   "id": "40143",
+   "title": "France and England in North America, Part III: La Salle, Discovery of The Great West",
+   "author": "Francis Parkman",
+   "slug": "france-and-england-in-north-america-part-iii-la-salle-discov",
+   "slug_author": "francis-parkman"
+  },
+  {
+   "id": "40284",
+   "title": "The Sex Life of the Gods",
+   "author": "M. E. Knerr",
+   "slug": "the-sex-life-of-the-gods",
+   "slug_author": "m-e-knerr"
+  },
+  {
+   "id": "40361",
+   "title": "The Air Pirate",
+   "author": "Guy Thorne",
+   "slug": "the-air-pirate",
+   "slug_author": "guy-thorne"
+  },
+  {
+   "id": "40868",
+   "title": "The World as Will and Idea (Vol. 3 of 3)",
+   "author": "Arthur Schopenhauer",
+   "slug": "the-world-as-will-and-idea-vol-3-of-3",
+   "slug_author": "arthur-schopenhauer"
+  },
+  {
+   "id": "421",
+   "title": "Kidnapped",
+   "author": "Robert Louis Stevenson",
+   "slug": "kidnapped",
+   "slug_author": "robert-louis-stevenson"
+  },
+  {
+   "id": "42236",
+   "title": "Jewels of Gwahlur",
+   "author": "Robert E. Howard",
+   "slug": "jewels-of-gwahlur",
+   "slug_author": "robert-e-howard"
+  },
+  {
+   "id": "42243",
+   "title": "The Hour of the Dragon",
+   "author": "Robert E. Howard",
+   "slug": "the-hour-of-the-dragon",
+   "slug_author": "robert-e-howard"
+  },
+  {
+   "id": "42259",
+   "title": "The People of the Black Circle",
+   "author": "Robert E. Howard",
+   "slug": "the-people-of-the-black-circle",
+   "slug_author": "robert-e-howard"
+  },
+  {
+   "id": "42283",
+   "title": "The San Rosario Ranch",
+   "author": "Maud Howe Elliott",
+   "slug": "the-san-rosario-ranch",
+   "slug_author": "maud-howe-elliott"
+  },
+  {
+   "id": "42389",
+   "title": "The Pirate / Andrew Lang Edition",
+   "author": "Walter Scott",
+   "slug": "the-pirate-andrew-lang-edition",
+   "slug_author": "walter-scott"
+  },
+  {
+   "id": "42486",
+   "title": "The Two Magics: The Turn of the Screw, Covering End",
+   "author": "Henry James",
+   "slug": "the-two-magics-the-turn-of-the-screw-covering-end",
+   "slug_author": "henry-james"
+  },
+  {
+   "id": "42681",
+   "title": "The Hero of the People: A Historical Romance of Love, Liberty and Loyalty",
+   "author": "Alexandre Dumas",
+   "slug": "the-hero-of-the-people-a-historical-romance-of-love-liberty-",
+   "slug_author": "alexandre-dumas"
+  },
+  {
+   "id": "4276",
+   "title": "North and South",
+   "author": "Elizabeth Cleghorn Gaskell",
+   "slug": "north-and-south",
+   "slug_author": "elizabeth-cleghorn-gaskell"
+  },
+  {
+   "id": "4280",
+   "title": "The Critique of Pure Reason",
+   "author": "Immanuel Kant",
+   "slug": "the-critique-of-pure-reason",
+   "slug_author": "immanuel-kant"
+  },
+  {
+   "id": "42884",
+   "title": "The Philippine Islands, 1493-1898, Volume 33, 1519-1522 / Explorations by early navigators, descriptions of the islands and their peoples, their history and records of the Catholic missions, as related in contemporaneous books and manuscripts, showing the political, economic, commercial and religious conditions of those islands from their earliest relations with European nations to the close of the nineteenth century",
+   "author": "Antonio Pigafetta",
+   "slug": "the-philippine-islands-14931898-volume-33-15191522-explorati",
+   "slug_author": "antonio-pigafetta"
+  },
+  {
+   "id": "43",
+   "title": "The strange case of Dr. Jekyll and Mr. Hyde",
+   "author": "Robert Louis Stevenson",
+   "slug": "the-strange-case-of-dr-jekyll-and-mr-hyde",
+   "slug_author": "robert-louis-stevenson"
+  },
+  {
+   "id": "43063",
+   "title": "A Case in Camera",
+   "author": "Oliver Onions",
+   "slug": "a-case-in-camera",
+   "slug_author": "oliver-onions"
+  },
+  {
+   "id": "44425",
+   "title": "River Legends; Or, Father Thames and Father Rhine",
+   "author": "Baron Edward Hugessen Knatchbull-Hugessen Brabourne",
+   "slug": "river-legends-or-father-thames-and-father-rhine",
+   "slug_author": "baron-edward-hugessen-knatchbullhugessen-brabourne"
+  },
+  {
+   "id": "44802",
+   "title": "The Comic English Grammar: A New And Facetious Introduction To The English Tongue",
+   "author": "Percival Leigh",
+   "slug": "the-comic-english-grammar-a-new-and-facetious-introduction-t",
+   "slug_author": "percival-leigh"
+  },
+  {
+   "id": "44827",
+   "title": "Under the Witches' Moon: A Romantic Tale of Mediaeval Rome",
+   "author": "Nathan Gallizier",
+   "slug": "under-the-witches-moon-a-romantic-tale-of-mediaeval-rome",
+   "slug_author": "nathan-gallizier"
+  },
+  {
+   "id": "4488",
+   "title": "The Amazing Marriage \u2014 Complete",
+   "author": "George Meredith",
+   "slug": "the-amazing-marriage-complete",
+   "slug_author": "george-meredith"
+  },
+  {
+   "id": "4499",
+   "title": "Complete Short Works of George Meredith",
+   "author": "George Meredith",
+   "slug": "complete-short-works-of-george-meredith",
+   "slug_author": "george-meredith"
+  },
+  {
+   "id": "45",
+   "title": "Anne of Green Gables",
+   "author": "L. M. Montgomery",
+   "slug": "anne-of-green-gables",
+   "slug_author": "l-m-montgomery"
+  },
+  {
+   "id": "4507",
+   "title": "As a man thinketh",
+   "author": "James Allen",
+   "slug": "as-a-man-thinketh",
+   "slug_author": "james-allen"
+  },
+  {
+   "id": "45109",
+   "title": "The Enchiridion",
+   "author": "Epictetus",
+   "slug": "the-enchiridion",
+   "slug_author": "epictetus"
+  },
+  {
+   "id": "4517",
+   "title": "Ethan Frome",
+   "author": "Edith Wharton",
+   "slug": "ethan-frome",
+   "slug_author": "edith-wharton"
+  },
+  {
+   "id": "45451",
+   "title": "The Man Who Did the Right Thing: A Romance",
+   "author": "Harry Johnston",
+   "slug": "the-man-who-did-the-right-thing-a-romance",
+   "slug_author": "harry-johnston"
+  },
+  {
+   "id": "45839",
+   "title": "Dracula",
+   "author": "Bram Stoker",
+   "slug": "dracula",
+   "slug_author": "bram-stoker"
+  },
+  {
+   "id": "46",
+   "title": "A Christmas Carol in Prose; Being a Ghost Story of Christmas",
+   "author": "Charles Dickens",
+   "slug": "a-christmas-carol-in-prose-being-a-ghost-story-of-christmas",
+   "slug_author": "charles-dickens"
+  },
+  {
+   "id": "46276",
+   "title": "The Treasure of Pearls: A Romance of Adventures in California",
+   "author": "Gustave Aimard",
+   "slug": "the-treasure-of-pearls-a-romance-of-adventures-in-california",
+   "slug_author": "gustave-aimard"
+  },
+  {
+   "id": "46333",
+   "title": "The social contract & discourses",
+   "author": "Jean-Jacques Rousseau",
+   "slug": "the-social-contract-discourses",
+   "slug_author": "jeanjacques-rousseau"
+  },
+  {
+   "id": "468",
+   "title": "Manon Lescaut",
+   "author": "abb\u00e9 Pr\u00e9vost",
+   "slug": "manon-lescaut",
+   "slug_author": "abb-prvost"
+  },
+  {
+   "id": "4693",
+   "title": "Famous Affinities of History: The Romance of Devotion. Vol 1-4, Complete",
+   "author": "Lyndon Orr",
+   "slug": "famous-affinities-of-history-the-romance-of-devotion-vol-14-",
+   "slug_author": "lyndon-orr"
+  },
+  {
+   "id": "46976",
+   "title": "The Anabasis of Alexander",
+   "author": "Arrian",
+   "slug": "the-anabasis-of-alexander",
+   "slug_author": "arrian"
+  },
+  {
+   "id": "47",
+   "title": "Anne of Avonlea",
+   "author": "L. M. Montgomery",
+   "slug": "anne-of-avonlea",
+   "slug_author": "l-m-montgomery"
+  },
+  {
+   "id": "47001",
+   "title": "De Officiis",
+   "author": "Marcus Tullius Cicero",
+   "slug": "de-officiis",
+   "slug_author": "marcus-tullius-cicero"
+  },
+  {
+   "id": "4712",
+   "title": "The Landloper: The Romance of a Man on Foot",
+   "author": "Holman Day",
+   "slug": "the-landloper-the-romance-of-a-man-on-foot",
+   "slug_author": "holman-day"
+  },
+  {
+   "id": "47221",
+   "title": "Quintus Claudius: A Romance of Imperial Rome. Volume 1",
+   "author": "Ernst Eckstein",
+   "slug": "quintus-claudius-a-romance-of-imperial-rome-volume-1",
+   "slug_author": "ernst-eckstein"
+  },
+  {
+   "id": "47262",
+   "title": "Old Times on the Upper Mississippi / The Recollections of a Steamboat Pilot from 1854 to 1863",
+   "author": "George Byron Merrick",
+   "slug": "old-times-on-the-upper-mississippi-the-recollections-of-a-st",
+   "slug_author": "george-byron-merrick"
+  },
+  {
+   "id": "47434",
+   "title": "Infatuation",
+   "author": "Lloyd Osbourne",
+   "slug": "infatuation",
+   "slug_author": "lloyd-osbourne"
+  },
+  {
+   "id": "47530",
+   "title": "Oliver Twist, Vol. 2 (of 3)",
+   "author": "Charles Dickens",
+   "slug": "oliver-twist-vol-2-of-3",
+   "slug_author": "charles-dickens"
+  },
+  {
+   "id": "48296",
+   "title": "Linnet: A Romance",
+   "author": "Grant Allen",
+   "slug": "linnet-a-romance",
+   "slug_author": "grant-allen"
+  },
+  {
+   "id": "48320",
+   "title": "Adventures of Sherlock Holmes / Illustrated",
+   "author": "Arthur Conan Doyle",
+   "slug": "adventures-of-sherlock-holmes-illustrated",
+   "slug_author": "arthur-conan-doyle"
+  },
+  {
+   "id": "48433",
+   "title": "Kant's Critique of Judgement",
+   "author": "Immanuel Kant",
+   "slug": "kants-critique-of-judgement",
+   "slug_author": "immanuel-kant"
+  },
+  {
+   "id": "48438",
+   "title": "Rizal's own story of his life",
+   "author": "Jos\u00e9 Rizal",
+   "slug": "rizals-own-story-of-his-life",
+   "slug_author": "jos-rizal"
+  },
+  {
+   "id": "48893",
+   "title": "Mademoiselle de Maupin, Volume 1 (of 2)",
+   "author": "Th\u00e9ophile Gautier",
+   "slug": "mademoiselle-de-maupin-volume-1-of-2",
+   "slug_author": "thophile-gautier"
+  },
+  {
+   "id": "48963",
+   "title": "The Viper of Milan: A Romance of Lombardy",
+   "author": "Marjorie Bowen",
+   "slug": "the-viper-of-milan-a-romance-of-lombardy",
+   "slug_author": "marjorie-bowen"
+  },
+  {
+   "id": "4918",
+   "title": "The Lilac Sunbonnet: A Love Story",
+   "author": "S. R. Crockett",
+   "slug": "the-lilac-sunbonnet-a-love-story",
+   "slug_author": "s-r-crockett"
+  },
+  {
+   "id": "4923",
+   "title": "King Midas: a Romance",
+   "author": "Upton Sinclair",
+   "slug": "king-midas-a-romance",
+   "slug_author": "upton-sinclair"
+  },
+  {
+   "id": "49555",
+   "title": "The Hermit Doctor of Gaya: A Love Story of Modern India",
+   "author": "I. A. R. Wylie",
+   "slug": "the-hermit-doctor-of-gaya-a-love-story-of-modern-india",
+   "slug_author": "i-a-r-wylie"
+  },
+  {
+   "id": "49806",
+   "title": "Addie's Husband; or, Through clouds to sunshine",
+   "author": "Mrs. Gordon Smythies",
+   "slug": "addies-husband-or-through-clouds-to-sunshine",
+   "slug_author": "mrs-gordon-smythies"
+  },
+  {
+   "id": "49987",
+   "title": "Forest Days: A Romance of Old Times",
+   "author": "G. P. R. James",
+   "slug": "forest-days-a-romance-of-old-times",
+   "slug_author": "g-p-r-james"
+  },
+  {
+   "id": "500",
+   "title": "The Adventures of Pinocchio",
+   "author": "Carlo Collodi",
+   "slug": "the-adventures-of-pinocchio",
+   "slug_author": "carlo-collodi"
+  },
+  {
+   "id": "50133",
+   "title": "The Dunwich horror",
+   "author": "H. P. Lovecraft",
+   "slug": "the-dunwich-horror",
+   "slug_author": "h-p-lovecraft"
+  },
+  {
+   "id": "50290",
+   "title": "Space Station 1",
+   "author": "Frank Belknap Long",
+   "slug": "space-station-1",
+   "slug_author": "frank-belknap-long"
+  },
+  {
+   "id": "50498",
+   "title": "The Raft",
+   "author": "Coningsby Dawson",
+   "slug": "the-raft",
+   "slug_author": "coningsby-dawson"
+  },
+  {
+   "id": "50603",
+   "title": "Minute Mysteries [Detectograms]",
+   "author": "H. A. Ripley",
+   "slug": "minute-mysteries-detectograms",
+   "slug_author": "h-a-ripley"
+  },
+  {
+   "id": "51",
+   "title": "Anne of the Island",
+   "author": "L. M. Montgomery",
+   "slug": "anne-of-the-island",
+   "slug_author": "l-m-montgomery"
+  },
+  {
+   "id": "514",
+   "title": "Little Women",
+   "author": "Louisa May Alcott",
+   "slug": "little-women",
+   "slug_author": "louisa-may-alcott"
+  },
+  {
+   "id": "51469",
+   "title": "Self-Control, Its Kingship and Majesty",
+   "author": "William George Jordan",
+   "slug": "selfcontrol-its-kingship-and-majesty",
+   "slug_author": "william-george-jordan"
+  },
+  {
+   "id": "521",
+   "title": "The Life and Adventures of Robinson Crusoe",
+   "author": "Daniel Defoe",
+   "slug": "the-life-and-adventures-of-robinson-crusoe",
+   "slug_author": "daniel-defoe"
+  },
+  {
+   "id": "5225",
+   "title": "The Satyricon \u2014 Complete",
+   "author": "Petronius Arbiter",
+   "slug": "the-satyricon-complete",
+   "slug_author": "petronius-arbiter"
+  },
+  {
+   "id": "5230",
+   "title": "The Invisible Man: A Grotesque Romance",
+   "author": "H. G. Wells",
+   "slug": "the-invisible-man-a-grotesque-romance",
+   "slug_author": "h-g-wells"
+  },
+  {
+   "id": "524",
+   "title": "Ann Veronica: A Modern Love Story",
+   "author": "H. G. Wells",
+   "slug": "ann-veronica-a-modern-love-story",
+   "slug_author": "h-g-wells"
+  },
+  {
+   "id": "52404",
+   "title": "The Girl Philippa",
+   "author": "Robert W. Chambers",
+   "slug": "the-girl-philippa",
+   "slug_author": "robert-w-chambers"
+  },
+  {
+   "id": "52734",
+   "title": "The Scourge of God: A Romance of Religious Persecution",
+   "author": "John Bloundelle-Burton",
+   "slug": "the-scourge-of-god-a-romance-of-religious-persecution",
+   "slug_author": "john-bloundelleburton"
+  },
+  {
+   "id": "53154",
+   "title": "Cameron of Lochiel",
+   "author": "Philippe Aubert de Gasp\u00e9",
+   "slug": "cameron-of-lochiel",
+   "slug_author": "philippe-aubert-de-gasp"
+  },
+  {
+   "id": "53416",
+   "title": "Only a girl's love",
+   "author": "Charles Garvice",
+   "slug": "only-a-girls-love",
+   "slug_author": "charles-garvice"
+  },
+  {
+   "id": "537",
+   "title": "Tales of Terror and Mystery",
+   "author": "Arthur Conan Doyle",
+   "slug": "tales-of-terror-and-mystery",
+   "slug_author": "arthur-conan-doyle"
+  },
+  {
+   "id": "53874",
+   "title": "Under the Red Dragon: A Novel",
+   "author": "James Grant",
+   "slug": "under-the-red-dragon-a-novel",
+   "slug_author": "james-grant"
+  },
+  {
+   "id": "541",
+   "title": "The Age of Innocence",
+   "author": "Edith Wharton",
+   "slug": "the-age-of-innocence",
+   "slug_author": "edith-wharton"
+  },
+  {
+   "id": "54879",
+   "title": "The Memoirs of Fran\u00e7ois Ren\u00e9 Vicomte de Chateaubriand sometime Ambassador to England, Volume 4 (of 6) / M\u00e9moires d'outre-tombe volume 4",
+   "author": "vicomte de Fran\u00e7ois-Ren\u00e9 Chateaubriand",
+   "slug": "the-memoirs-of-franois-ren-vicomte-de-chateaubriand-sometime",
+   "slug_author": "vicomte-de-franoisren-chateaubriand"
+  },
+  {
+   "id": "55",
+   "title": "The Wonderful Wizard of Oz",
+   "author": "L. Frank Baum",
+   "slug": "the-wonderful-wizard-of-oz",
+   "slug_author": "l-frank-baum"
+  },
+  {
+   "id": "551",
+   "title": "The Land That Time Forgot",
+   "author": "Edgar Rice Burroughs",
+   "slug": "the-land-that-time-forgot",
+   "slug_author": "edgar-rice-burroughs"
+  },
+  {
+   "id": "55179",
+   "title": "One of the Six Hundred: A Novel",
+   "author": "James Grant",
+   "slug": "one-of-the-six-hundred-a-novel",
+   "slug_author": "james-grant"
+  },
+  {
+   "id": "553",
+   "title": "Out of Time's Abyss",
+   "author": "Edgar Rice Burroughs",
+   "slug": "out-of-times-abyss",
+   "slug_author": "edgar-rice-burroughs"
+  },
+  {
+   "id": "55317",
+   "title": "The Meditations of the Emperor Marcus Aurelius Antoninus / A new rendering based on the Foulis translation of 1742",
+   "author": "Emperor of Rome Marcus Aurelius",
+   "slug": "the-meditations-of-the-emperor-marcus-aurelius-antoninus-a-n",
+   "slug_author": "emperor-of-rome-marcus-aurelius"
+  },
+  {
+   "id": "558",
+   "title": "The Thirty-Nine Steps",
+   "author": "John Buchan",
+   "slug": "the-thirtynine-steps",
+   "slug_author": "john-buchan"
+  },
+  {
+   "id": "560",
+   "title": "Mr. Standfast",
+   "author": "John Buchan",
+   "slug": "mr-standfast",
+   "slug_author": "john-buchan"
+  },
+  {
+   "id": "56075",
+   "title": "Seneca's Morals of a Happy Life, Benefits, Anger and Clemency",
+   "author": "Lucius Annaeus Seneca",
+   "slug": "senecas-morals-of-a-happy-life-benefits-anger-and-clemency",
+   "slug_author": "lucius-annaeus-seneca"
+  },
+  {
+   "id": "5610",
+   "title": "The Cardinal's snuff-box",
+   "author": "Henry Harland",
+   "slug": "the-cardinals-snuffbox",
+   "slug_author": "henry-harland"
+  },
+  {
+   "id": "564",
+   "title": "The Mystery of Edwin Drood",
+   "author": "Charles Dickens",
+   "slug": "the-mystery-of-edwin-drood",
+   "slug_author": "charles-dickens"
+  },
+  {
+   "id": "5682",
+   "title": "Fundamental Principles of the Metaphysic of Morals",
+   "author": "Immanuel Kant",
+   "slug": "fundamental-principles-of-the-metaphysic-of-morals",
+   "slug_author": "immanuel-kant"
+  },
+  {
+   "id": "5700",
+   "title": "Love and Life: An Old Story in Eighteenth Century Costume",
+   "author": "Charlotte M. Yonge",
+   "slug": "love-and-life-an-old-story-in-eighteenth-century-costume",
+   "slug_author": "charlotte-m-yonge"
+  },
+  {
+   "id": "57426",
+   "title": "Baron Trump's Marvellous Underground Journey",
+   "author": "Ingersoll Lockwood",
+   "slug": "baron-trumps-marvellous-underground-journey",
+   "slug_author": "ingersoll-lockwood"
+  },
+  {
+   "id": "57641",
+   "title": "One Woman: Being the Second Part of a Romance of Sussex",
+   "author": "Alfred Ollivant",
+   "slug": "one-woman-being-the-second-part-of-a-romance-of-sussex",
+   "slug_author": "alfred-ollivant"
+  },
+  {
+   "id": "57669",
+   "title": "The problem of Cell 13",
+   "author": "Jacques Futrelle",
+   "slug": "the-problem-of-cell-13",
+   "slug_author": "jacques-futrelle"
+  },
+  {
+   "id": "57763",
+   "title": "Daughters of Nijo: A Romance of Japan",
+   "author": "Onoto Watanna",
+   "slug": "daughters-of-nijo-a-romance-of-japan",
+   "slug_author": "onoto-watanna"
+  },
+  {
+   "id": "58820",
+   "title": "Whose Body? A Lord Peter Wimsey Novel",
+   "author": "Dorothy L. Sayers",
+   "slug": "whose-body-a-lord-peter-wimsey-novel",
+   "slug_author": "dorothy-l-sayers"
+  },
+  {
+   "id": "58866",
+   "title": "The Murder on the Links",
+   "author": "Agatha Christie",
+   "slug": "the-murder-on-the-links",
+   "slug_author": "agatha-christie"
+  },
+  {
+   "id": "589",
+   "title": "Catriona",
+   "author": "Robert Louis Stevenson",
+   "slug": "catriona",
+   "slug_author": "robert-louis-stevenson"
+  },
+  {
+   "id": "59",
+   "title": "Discourse on the Method of Rightly Conducting One's Reason and of Seeking Truth in the Sciences",
+   "author": "Ren\u00e9 Descartes",
+   "slug": "discourse-on-the-method-of-rightly-conducting-ones-reason-an",
+   "slug_author": "ren-descartes"
+  },
+  {
+   "id": "5921",
+   "title": "The History of Don Quixote, Volume 1, Complete",
+   "author": "Miguel de Cervantes Saavedra",
+   "slug": "the-history-of-don-quixote-volume-1-complete",
+   "slug_author": "miguel-de-cervantes-saavedra"
+  },
+  {
+   "id": "5946",
+   "title": "The History of Don Quixote, Volume 2, Complete",
+   "author": "Miguel de Cervantes Saavedra",
+   "slug": "the-history-of-don-quixote-volume-2-complete",
+   "slug_author": "miguel-de-cervantes-saavedra"
+  },
+  {
+   "id": "59844",
+   "title": "The Science of Getting Rich",
+   "author": "W. D. Wattles",
+   "slug": "the-science-of-getting-rich",
+   "slug_author": "w-d-wattles"
+  },
+  {
+   "id": "59892",
+   "title": "Changeling, and Other Stories",
+   "author": "Donn Byrne",
+   "slug": "changeling-and-other-stories",
+   "slug_author": "donn-byrne"
+  },
+  {
+   "id": "59899",
+   "title": "Ten Days in a Mad-House; or, Nellie Bly's Experience on Blackwell's Island. / Feigning Insanity in Order to Reveal Asylum Horrors. The Trying Ordeal of the New York World's Girl Correspondent.",
+   "author": "Nellie Bly",
+   "slug": "ten-days-in-a-madhouse-or-nellie-blys-experience-on-blackwel",
+   "slug_author": "nellie-bly"
+  },
+  {
+   "id": "59931",
+   "title": "The Love-Story of Aliette Brunton",
+   "author": "Gilbert Frankau",
+   "slug": "the-lovestory-of-aliette-brunton",
+   "slug_author": "gilbert-frankau"
+  },
+  {
+   "id": "600",
+   "title": "Notes from the Underground",
+   "author": "Fyodor Dostoyevsky",
+   "slug": "notes-from-the-underground",
+   "slug_author": "fyodor-dostoyevsky"
+  },
+  {
+   "id": "601",
+   "title": "The Monk: A Romance",
+   "author": "M. G. Lewis",
+   "slug": "the-monk-a-romance",
+   "slug_author": "m-g-lewis"
+  },
+  {
+   "id": "60979",
+   "title": "Reminiscences of a Stock Operator",
+   "author": "Edwin Lefevre",
+   "slug": "reminiscences-of-a-stock-operator",
+   "slug_author": "edwin-lefevre"
+  },
+  {
+   "id": "61168",
+   "title": "The Man in the Brown Suit",
+   "author": "Agatha Christie",
+   "slug": "the-man-in-the-brown-suit",
+   "slug_author": "agatha-christie"
+  },
+  {
+   "id": "61262",
+   "title": "Poirot Investigates",
+   "author": "Agatha Christie",
+   "slug": "poirot-investigates",
+   "slug_author": "agatha-christie"
+  },
+  {
+   "id": "6133",
+   "title": "The Extraordinary Adventures of Ars\u00e8ne Lupin, Gentleman-Burglar",
+   "author": "Maurice Leblanc",
+   "slug": "the-extraordinary-adventures-of-arsne-lupin-gentlemanburglar",
+   "slug_author": "maurice-leblanc"
+  },
+  {
+   "id": "62",
+   "title": "A princess of Mars",
+   "author": "Edgar Rice Burroughs",
+   "slug": "a-princess-of-mars",
+   "slug_author": "edgar-rice-burroughs"
+  },
+  {
+   "id": "6235",
+   "title": "The Battle of the Strong: A Romance of Two Kingdoms \u2014 Volume 6",
+   "author": "Gilbert Parker",
+   "slug": "the-battle-of-the-strong-a-romance-of-two-kingdoms-volume-6",
+   "slug_author": "gilbert-parker"
+  },
+  {
+   "id": "63469",
+   "title": "Washington Confidential",
+   "author": "Jack Lait",
+   "slug": "washington-confidential",
+   "slug_author": "jack-lait"
+  },
+  {
+   "id": "64",
+   "title": "The gods of Mars",
+   "author": "Edgar Rice Burroughs",
+   "slug": "the-gods-of-mars",
+   "slug_author": "edgar-rice-burroughs"
+  },
+  {
+   "id": "64836",
+   "title": "Jane Seton; or, The King's Advocate: A Scottish Historical Romance",
+   "author": "James Grant",
+   "slug": "jane-seton-or-the-kings-advocate-a-scottish-historical-roman",
+   "slug_author": "james-grant"
+  },
+  {
+   "id": "65238",
+   "title": "The Secret of Chimneys",
+   "author": "Agatha Christie",
+   "slug": "the-secret-of-chimneys",
+   "slug_author": "agatha-christie"
+  },
+  {
+   "id": "6635",
+   "title": "A Romance of Billy-Goat Hill",
+   "author": "Alice Caldwell Hegan Rice",
+   "slug": "a-romance-of-billygoat-hill",
+   "slug_author": "alice-caldwell-hegan-rice"
+  },
+  {
+   "id": "67025",
+   "title": "Lives of Fair and Gallant Ladies. Vol 1",
+   "author": "Pierre de Bourdeille Brant\u00f4me",
+   "slug": "lives-of-fair-and-gallant-ladies-vol-1",
+   "slug_author": "pierre-de-bourdeille-brantme"
+  },
+  {
+   "id": "67098",
+   "title": "Winnie-the-Pooh",
+   "author": "A. A. Milne",
+   "slug": "winniethepooh",
+   "slug_author": "a-a-milne"
+  },
+  {
+   "id": "6762",
+   "title": "Politics: A Treatise on Government",
+   "author": "Aristotle",
+   "slug": "politics-a-treatise-on-government",
+   "slug_author": "aristotle"
+  },
+  {
+   "id": "6768",
+   "title": "The Man Upstairs and Other Stories",
+   "author": "P. G. Wodehouse",
+   "slug": "the-man-upstairs-and-other-stories",
+   "slug_author": "p-g-wodehouse"
+  },
+  {
+   "id": "67804",
+   "title": "The First of the English: A Novel",
+   "author": "Archibald Clavering Gunter",
+   "slug": "the-first-of-the-english-a-novel",
+   "slug_author": "archibald-clavering-gunter"
+  },
+  {
+   "id": "67979",
+   "title": "The Blue Castle: a novel",
+   "author": "L. M. Montgomery",
+   "slug": "the-blue-castle-a-novel",
+   "slug_author": "l-m-montgomery"
+  },
+  {
+   "id": "68",
+   "title": "The warlord of Mars",
+   "author": "Edgar Rice Burroughs",
+   "slug": "the-warlord-of-mars",
+   "slug_author": "edgar-rice-burroughs"
+  },
+  {
+   "id": "69087",
+   "title": "The murder of Roger Ackroyd",
+   "author": "Agatha Christie",
+   "slug": "the-murder-of-roger-ackroyd",
+   "slug_author": "agatha-christie"
+  },
+  {
+   "id": "6911",
+   "title": "The Majesty of Calmness; individual problems and posibilities",
+   "author": "William George Jordan",
+   "slug": "the-majesty-of-calmness-individual-problems-and-posibilities",
+   "slug_author": "william-george-jordan"
+  },
+  {
+   "id": "696",
+   "title": "The Castle of Otranto",
+   "author": "Horace Walpole",
+   "slug": "the-castle-of-otranto",
+   "slug_author": "horace-walpole"
+  },
+  {
+   "id": "69700",
+   "title": "The case-book of Sherlock Holmes",
+   "author": "Arthur Conan Doyle",
+   "slug": "the-casebook-of-sherlock-holmes",
+   "slug_author": "arthur-conan-doyle"
+  },
+  {
+   "id": "70008",
+   "title": "Unnatural death",
+   "author": "Dorothy L. Sayers",
+   "slug": "unnatural-death",
+   "slug_author": "dorothy-l-sayers"
+  },
+  {
+   "id": "70114",
+   "title": "The Big Four",
+   "author": "Agatha Christie",
+   "slug": "the-big-four",
+   "slug_author": "agatha-christie"
+  },
+  {
+   "id": "70175",
+   "title": "The secret of Father Brown",
+   "author": "G. K. Chesterton",
+   "slug": "the-secret-of-father-brown",
+   "slug_author": "g-k-chesterton"
+  },
+  {
+   "id": "70652",
+   "title": "At the mountains of madness",
+   "author": "H. P. Lovecraft",
+   "slug": "at-the-mountains-of-madness",
+   "slug_author": "h-p-lovecraft"
+  },
+  {
+   "id": "7142",
+   "title": "The History of the Peloponnesian War",
+   "author": "Thucydides",
+   "slug": "the-history-of-the-peloponnesian-war",
+   "slug_author": "thucydides"
+  },
+  {
+   "id": "7184",
+   "title": "A Heart-Song of To-day (Disturbed by Fire from the 'Unruly Member'): A Novel",
+   "author": "Annie G. Savigny",
+   "slug": "a-heartsong-of-today-disturbed-by-fire-from-the-unruly-membe",
+   "slug_author": "annie-g-savigny"
+  },
+  {
+   "id": "71865",
+   "title": "Mrs. Dalloway",
+   "author": "Virginia Woolf",
+   "slug": "mrs-dalloway",
+   "slug_author": "virginia-woolf"
+  },
+  {
+   "id": "72",
+   "title": "Thuvia, maid of Mars",
+   "author": "Edgar Rice Burroughs",
+   "slug": "thuvia-maid-of-mars",
+   "slug_author": "edgar-rice-burroughs"
+  },
+  {
+   "id": "72824",
+   "title": "The mystery of the Blue Train",
+   "author": "Agatha Christie",
+   "slug": "the-mystery-of-the-blue-train",
+   "slug_author": "agatha-christie"
+  },
+  {
+   "id": "730",
+   "title": "Oliver Twist",
+   "author": "Charles Dickens",
+   "slug": "oliver-twist",
+   "slug_author": "charles-dickens"
+  },
+  {
+   "id": "7326",
+   "title": "The Yeoman Adventurer",
+   "author": "George W. Gough",
+   "slug": "the-yeoman-adventurer",
+   "slug_author": "george-w-gough"
+  },
+  {
+   "id": "7370",
+   "title": "Second Treatise of Government",
+   "author": "John Locke",
+   "slug": "second-treatise-of-government",
+   "slug_author": "john-locke"
+  },
+  {
+   "id": "74",
+   "title": "The Adventures of Tom Sawyer, Complete",
+   "author": "Mark Twain",
+   "slug": "the-adventures-of-tom-sawyer-complete",
+   "slug_author": "mark-twain"
+  },
+  {
+   "id": "75201",
+   "title": "A farewell to arms",
+   "author": "Ernest Hemingway",
+   "slug": "a-farewell-to-arms",
+   "slug_author": "ernest-hemingway"
+  },
+  {
+   "id": "7524",
+   "title": "The Germany and the Agricola of Tacitus",
+   "author": "Cornelius Tacitus",
+   "slug": "the-germany-and-the-agricola-of-tacitus",
+   "slug_author": "cornelius-tacitus"
+  },
+  {
+   "id": "75288",
+   "title": "The Seven Dials mystery",
+   "author": "Agatha Christie",
+   "slug": "the-seven-dials-mystery",
+   "slug_author": "agatha-christie"
+  },
+  {
+   "id": "75643",
+   "title": "The Black Abbot",
+   "author": "Edgar Wallace",
+   "slug": "the-black-abbot",
+   "slug_author": "edgar-wallace"
+  },
+  {
+   "id": "75790",
+   "title": "Cursed be the treasure",
+   "author": "H. B. Drake",
+   "slug": "cursed-be-the-treasure",
+   "slug_author": "h-b-drake"
+  },
+  {
+   "id": "75808",
+   "title": "Four square Jane",
+   "author": "Edgar Wallace",
+   "slug": "four-square-jane",
+   "slug_author": "edgar-wallace"
+  },
+  {
+   "id": "75840",
+   "title": "The trail of the serpent",
+   "author": "M. E. Braddon",
+   "slug": "the-trail-of-the-serpent",
+   "slug_author": "m-e-braddon"
+  },
+  {
+   "id": "75858",
+   "title": "The strange countess",
+   "author": "Edgar Wallace",
+   "slug": "the-strange-countess",
+   "slug_author": "edgar-wallace"
+  },
+  {
+   "id": "75877",
+   "title": "Lucius Davoren; or, Publicans and sinners, vol. 3",
+   "author": "M. E. Braddon",
+   "slug": "lucius-davoren-or-publicans-and-sinners-vol-3",
+   "slug_author": "m-e-braddon"
+  },
+  {
+   "id": "75896",
+   "title": "Ars\u00e8ne Lupin intervenes",
+   "author": "Maurice Leblanc",
+   "slug": "arsne-lupin-intervenes",
+   "slug_author": "maurice-leblanc"
+  },
+  {
+   "id": "75909",
+   "title": "The double dagger",
+   "author": "Nat Ridley",
+   "slug": "the-double-dagger",
+   "slug_author": "nat-ridley"
+  },
+  {
+   "id": "75922",
+   "title": "The amazing adventures of Letitia Carberry",
+   "author": "Mary Roberts Rinehart",
+   "slug": "the-amazing-adventures-of-letitia-carberry",
+   "slug_author": "mary-roberts-rinehart"
+  },
+  {
+   "id": "75949",
+   "title": "Terror keep",
+   "author": "Edgar Wallace",
+   "slug": "terror-keep",
+   "slug_author": "edgar-wallace"
+  },
+  {
+   "id": "75967",
+   "title": "Dr. Mabuse, master of mystery",
+   "author": "Norbert Jacques",
+   "slug": "dr-mabuse-master-of-mystery",
+   "slug_author": "norbert-jacques"
+  },
+  {
+   "id": "75998",
+   "title": "Daredevil",
+   "author": "Leslie Charteris",
+   "slug": "daredevil",
+   "slug_author": "leslie-charteris"
+  },
+  {
+   "id": "76",
+   "title": "Adventures of Huckleberry Finn",
+   "author": "Mark Twain",
+   "slug": "adventures-of-huckleberry-finn",
+   "slug_author": "mark-twain"
+  },
+  {
+   "id": "76049",
+   "title": "Dancing Devil range",
+   "author": "W. C. Tuttle",
+   "slug": "dancing-devil-range",
+   "slug_author": "w-c-tuttle"
+  },
+  {
+   "id": "76059",
+   "title": "The thing in the woods",
+   "author": "Harper Williams",
+   "slug": "the-thing-in-the-woods",
+   "slug_author": "harper-williams"
+  },
+  {
+   "id": "76072",
+   "title": "The mystery of Angelina Frood",
+   "author": "R. Austin Freeman",
+   "slug": "the-mystery-of-angelina-frood",
+   "slug_author": "r-austin-freeman"
+  },
+  {
+   "id": "76084",
+   "title": "The Nowadays Girls in the Adirondacks",
+   "author": "Gertrude Hall Brownell",
+   "slug": "the-nowadays-girls-in-the-adirondacks",
+   "slug_author": "gertrude-hall-brownell"
+  },
+  {
+   "id": "76116",
+   "title": "The blue scarab",
+   "author": "R. Austin Freeman",
+   "slug": "the-blue-scarab",
+   "slug_author": "r-austin-freeman"
+  },
+  {
+   "id": "76168",
+   "title": "Room 13",
+   "author": "Edgar Wallace",
+   "slug": "room-13",
+   "slug_author": "edgar-wallace"
+  },
+  {
+   "id": "76178",
+   "title": "I am a woman",
+   "author": "Ann Bannon",
+   "slug": "i-am-a-woman",
+   "slug_author": "ann-bannon"
+  },
+  {
+   "id": "76200",
+   "title": "Only seven were hanged",
+   "author": "Stuart Martin",
+   "slug": "only-seven-were-hanged",
+   "slug_author": "stuart-martin"
+  },
+  {
+   "id": "76212",
+   "title": "Kate plus 10",
+   "author": "Edgar Wallace",
+   "slug": "kate-plus-10",
+   "slug_author": "edgar-wallace"
+  },
+  {
+   "id": "76222",
+   "title": "The valley of eyes unseen",
+   "author": "Gilbert Collins",
+   "slug": "the-valley-of-eyes-unseen",
+   "slug_author": "gilbert-collins"
+  },
+  {
+   "id": "76257",
+   "title": "The crimson circle",
+   "author": "Edgar Wallace",
+   "slug": "the-crimson-circle",
+   "slug_author": "edgar-wallace"
+  },
+  {
+   "id": "76261",
+   "title": "Tales of terror",
+   "author": "Dick Donovan",
+   "slug": "tales-of-terror",
+   "slug_author": "dick-donovan"
+  },
+  {
+   "id": "76339",
+   "title": "The Roman hat mystery",
+   "author": "Ellery Queen",
+   "slug": "the-roman-hat-mystery",
+   "slug_author": "ellery-queen"
+  },
+  {
+   "id": "76352",
+   "title": "The world below",
+   "author": "S. Fowler Wright",
+   "slug": "the-world-below",
+   "slug_author": "s-fowler-wright"
+  },
+  {
+   "id": "76358",
+   "title": "They return at evening",
+   "author": "Herbert Russell Wakefield",
+   "slug": "they-return-at-evening",
+   "slug_author": "herbert-russell-wakefield"
+  },
+  {
+   "id": "76391",
+   "title": "Fairy dreams",
+   "author": "Jane G. Austin",
+   "slug": "fairy-dreams",
+   "slug_author": "jane-g-austin"
+  },
+  {
+   "id": "76411",
+   "title": "The last dragon",
+   "author": "Dan Totheroh",
+   "slug": "the-last-dragon",
+   "slug_author": "dan-totheroh"
+  },
+  {
+   "id": "76413",
+   "title": "Slighted love",
+   "author": "Mrs. Alex. McVeigh Miller",
+   "slug": "slighted-love",
+   "slug_author": "mrs-alex-mcveigh-miller"
+  },
+  {
+   "id": "76418",
+   "title": "The tomb of Ts'in",
+   "author": "Edgar Wallace",
+   "slug": "the-tomb-of-tsin",
+   "slug_author": "edgar-wallace"
+  },
+  {
+   "id": "76442",
+   "title": "The dryad",
+   "author": "Justin H. McCarthy",
+   "slug": "the-dryad",
+   "slug_author": "justin-h-mccarthy"
+  },
+  {
+   "id": "76462",
+   "title": "The adventures of Heine",
+   "author": "Edgar Wallace",
+   "slug": "the-adventures-of-heine",
+   "slug_author": "edgar-wallace"
+  },
+  {
+   "id": "76493",
+   "title": "The new terror",
+   "author": "Gaston Leroux",
+   "slug": "the-new-terror",
+   "slug_author": "gaston-leroux"
+  },
+  {
+   "id": "76503",
+   "title": "The man who mastered time",
+   "author": "Ray Cummings",
+   "slug": "the-man-who-mastered-time",
+   "slug_author": "ray-cummings"
+  },
+  {
+   "id": "76521",
+   "title": "The Hunniwell boys and the platinum mystery",
+   "author": "L. P. Wyman",
+   "slug": "the-hunniwell-boys-and-the-platinum-mystery",
+   "slug_author": "l-p-wyman"
+  },
+  {
+   "id": "76541",
+   "title": "Red aces",
+   "author": "Edgar Wallace",
+   "slug": "red-aces",
+   "slug_author": "edgar-wallace"
+  },
+  {
+   "id": "76546",
+   "title": "The Corbin necklace",
+   "author": "Henry Kitchell Webster",
+   "slug": "the-corbin-necklace",
+   "slug_author": "henry-kitchell-webster"
+  },
+  {
+   "id": "76553",
+   "title": "Three millions!",
+   "author": "Oliver Optic",
+   "slug": "three-millions",
+   "slug_author": "oliver-optic"
+  },
+  {
+   "id": "76576",
+   "title": "The Belle of Bowling Green",
+   "author": "Amelia E. Barr",
+   "slug": "the-belle-of-bowling-green",
+   "slug_author": "amelia-e-barr"
+  },
+  {
+   "id": "76603",
+   "title": "Karl Grier",
+   "author": "Louis Tracy",
+   "slug": "karl-grier",
+   "slug_author": "louis-tracy"
+  },
+  {
+   "id": "76621",
+   "title": "Sergeant Dick of the Royal Mounted Police",
+   "author": "John G. Rowe",
+   "slug": "sergeant-dick-of-the-royal-mounted-police",
+   "slug_author": "john-g-rowe"
+  },
+  {
+   "id": "76634",
+   "title": "Lillian's vow",
+   "author": "Mrs. E. Burke Collins",
+   "slug": "lillians-vow",
+   "slug_author": "mrs-e-burke-collins"
+  },
+  {
+   "id": "76659",
+   "title": "The seventh shot",
+   "author": "Herman Landon",
+   "slug": "the-seventh-shot",
+   "slug_author": "herman-landon"
+  },
+  {
+   "id": "76677",
+   "title": "The girl from Scotland Yard",
+   "author": "Edgar Wallace",
+   "slug": "the-girl-from-scotland-yard",
+   "slug_author": "edgar-wallace"
+  },
+  {
+   "id": "76685",
+   "title": "The Sign of the Seven Sins",
+   "author": "William Le Queux",
+   "slug": "the-sign-of-the-seven-sins",
+   "slug_author": "william-le-queux"
+  },
+  {
+   "id": "76689",
+   "title": "Snow-blind",
+   "author": "Albert M. Treynor",
+   "slug": "snowblind",
+   "slug_author": "albert-m-treynor"
+  },
+  {
+   "id": "76728",
+   "title": "Helen Vardon's confession",
+   "author": "R. Austin Freeman",
+   "slug": "helen-vardons-confession",
+   "slug_author": "r-austin-freeman"
+  },
+  {
+   "id": "76737",
+   "title": "The sociable ghost",
+   "author": "Olive Harper",
+   "slug": "the-sociable-ghost",
+   "slug_author": "olive-harper"
+  },
+  {
+   "id": "76759",
+   "title": "The strange house",
+   "author": "Catharine Shaw",
+   "slug": "the-strange-house",
+   "slug_author": "catharine-shaw"
+  },
+  {
+   "id": "76796",
+   "title": "A silent witness",
+   "author": "R. Austin Freeman",
+   "slug": "a-silent-witness",
+   "slug_author": "r-austin-freeman"
+  },
+  {
+   "id": "768",
+   "title": "Wuthering Heights",
+   "author": "Emily Bront\u00eb",
+   "slug": "wuthering-heights",
+   "slug_author": "emily-bront"
+  },
+  {
+   "id": "76812",
+   "title": "Fighting for fortune",
+   "author": "Roy Franklin",
+   "slug": "fighting-for-fortune",
+   "slug_author": "roy-franklin"
+  },
+  {
+   "id": "76903",
+   "title": "The Copper House",
+   "author": "Julius Regis",
+   "slug": "the-copper-house",
+   "slug_author": "julius-regis"
+  },
+  {
+   "id": "76914",
+   "title": "The mystery of the missing eyebrows",
+   "author": "Stephen Rudd",
+   "slug": "the-mystery-of-the-missing-eyebrows",
+   "slug_author": "stephen-rudd"
+  },
+  {
+   "id": "76919",
+   "title": "The magic casket",
+   "author": "R. Austin Freeman",
+   "slug": "the-magic-casket",
+   "slug_author": "r-austin-freeman"
+  },
+  {
+   "id": "76927",
+   "title": "Only a clod",
+   "author": "M. E. Braddon",
+   "slug": "only-a-clod",
+   "slug_author": "m-e-braddon"
+  },
+  {
+   "id": "76929",
+   "title": "Maugis, ye sorcerer",
+   "author": "Lord Gilhooley",
+   "slug": "maugis-ye-sorcerer",
+   "slug_author": "lord-gilhooley"
+  },
+  {
+   "id": "76950",
+   "title": "The ghost of Charlotte Cray, and other stories",
+   "author": "Florence Marryat",
+   "slug": "the-ghost-of-charlotte-cray-and-other-stories",
+   "slug_author": "florence-marryat"
+  },
+  {
+   "id": "76981",
+   "title": "Saved from herself",
+   "author": "Adelaide Stirling",
+   "slug": "saved-from-herself",
+   "slug_author": "adelaide-stirling"
+  },
+  {
+   "id": "76995",
+   "title": "Law-star for an outlaw",
+   "author": "W. C. Tuttle",
+   "slug": "lawstar-for-an-outlaw",
+   "slug_author": "w-c-tuttle"
+  },
+  {
+   "id": "76998",
+   "title": "Jonah",
+   "author": "Robert Nathan",
+   "slug": "jonah",
+   "slug_author": "robert-nathan"
+  },
+  {
+   "id": "77001",
+   "title": "Moon of madness",
+   "author": "Sax Rohmer",
+   "slug": "moon-of-madness",
+   "slug_author": "sax-rohmer"
+  },
+  {
+   "id": "77016",
+   "title": "The trail of deception",
+   "author": "W. C. Tuttle",
+   "slug": "the-trail-of-deception",
+   "slug_author": "w-c-tuttle"
+  },
+  {
+   "id": "77022",
+   "title": "The porcelain mask",
+   "author": "John Jay Chichester",
+   "slug": "the-porcelain-mask",
+   "slug_author": "john-jay-chichester"
+  },
+  {
+   "id": "77033",
+   "title": "The sinister mark",
+   "author": "Lee Thayer",
+   "slug": "the-sinister-mark",
+   "slug_author": "lee-thayer"
+  },
+  {
+   "id": "77056",
+   "title": "The dream detective",
+   "author": "Sax Rohmer",
+   "slug": "the-dream-detective",
+   "slug_author": "sax-rohmer"
+  },
+  {
+   "id": "77069",
+   "title": "Murder in the Gilded Cage",
+   "author": "Samuel Spewack",
+   "slug": "murder-in-the-gilded-cage",
+   "slug_author": "samuel-spewack"
+  },
+  {
+   "id": "77092",
+   "title": "She who sleeps",
+   "author": "Sax Rohmer",
+   "slug": "she-who-sleeps",
+   "slug_author": "sax-rohmer"
+  },
+  {
+   "id": "77097",
+   "title": "The magic ring, Vol. 1 (of 3)",
+   "author": "Freiherr de Friedrich Heinrich Karl La Motte-Fouqu\u00e9",
+   "slug": "the-magic-ring-vol-1-of-3",
+   "slug_author": "freiherr-de-friedrich-heinrich-karl-la-mottefouqu"
+  },
+  {
+   "id": "77098",
+   "title": "The magic ring, Vol. 2 (of 3)",
+   "author": "Freiherr de Friedrich Heinrich Karl La Motte-Fouqu\u00e9",
+   "slug": "the-magic-ring-vol-2-of-3",
+   "slug_author": "freiherr-de-friedrich-heinrich-karl-la-mottefouqu"
+  },
+  {
+   "id": "77099",
+   "title": "The magic ring, Vol. 3 (of 3)",
+   "author": "Freiherr de Friedrich Heinrich Karl La Motte-Fouqu\u00e9",
+   "slug": "the-magic-ring-vol-3-of-3",
+   "slug_author": "freiherr-de-friedrich-heinrich-karl-la-mottefouqu"
+  },
+  {
+   "id": "77109",
+   "title": "A journey to the world under-ground",
+   "author": "Ludvig Holberg",
+   "slug": "a-journey-to-the-world-underground",
+   "slug_author": "ludvig-holberg"
+  },
+  {
+   "id": "7735",
+   "title": "Paul Clifford \u2014 Complete",
+   "author": "Baron Edward Bulwer Lytton Lytton",
+   "slug": "paul-clifford-complete",
+   "slug_author": "baron-edward-bulwer-lytton-lytton"
+  },
+  {
+   "id": "77871",
+   "title": "Journey to a woman",
+   "author": "Ann Bannon",
+   "slug": "journey-to-a-woman",
+   "slug_author": "ann-bannon"
+  },
+  {
+   "id": "78005",
+   "title": "The Green Dolphin",
+   "author": "Sara Ware Bassett",
+   "slug": "the-green-dolphin",
+   "slug_author": "sara-ware-bassett"
+  },
+  {
+   "id": "78010",
+   "title": "The unknown seven",
+   "author": "Herman Landon",
+   "slug": "the-unknown-seven",
+   "slug_author": "herman-landon"
+  },
+  {
+   "id": "78011",
+   "title": "Three sevens",
+   "author": "Perley Poore Sheehan",
+   "slug": "three-sevens",
+   "slug_author": "perley-poore-sheehan"
+  },
+  {
+   "id": "78013",
+   "title": "Arrian on coursing",
+   "author": "Arrian",
+   "slug": "arrian-on-coursing",
+   "slug_author": "arrian"
+  },
+  {
+   "id": "78017",
+   "title": "The Swiss family Robinson",
+   "author": "Johann David Wyss",
+   "slug": "the-swiss-family-robinson",
+   "slug_author": "johann-david-wyss"
+  },
+  {
+   "id": "78024",
+   "title": "The woman of Andros",
+   "author": "Thornton Wilder",
+   "slug": "the-woman-of-andros",
+   "slug_author": "thornton-wilder"
+  },
+  {
+   "id": "78028",
+   "title": "The loot of the Lazy A",
+   "author": "W. C. Tuttle",
+   "slug": "the-loot-of-the-lazy-a",
+   "slug_author": "w-c-tuttle"
+  },
+  {
+   "id": "78029",
+   "title": "The dangerous game",
+   "author": "William Le Queux",
+   "slug": "the-dangerous-game",
+   "slug_author": "william-le-queux"
+  },
+  {
+   "id": "78040",
+   "title": "Kate Mulhall",
+   "author": "Ezra Meeker",
+   "slug": "kate-mulhall",
+   "slug_author": "ezra-meeker"
+  },
+  {
+   "id": "78043",
+   "title": "Bushy",
+   "author": "Cynthia May Westover Alden",
+   "slug": "bushy",
+   "slug_author": "cynthia-may-westover-alden"
+  },
+  {
+   "id": "78044",
+   "title": "Claribel",
+   "author": "Lucy Ellen Guernsey",
+   "slug": "claribel",
+   "slug_author": "lucy-ellen-guernsey"
+  },
+  {
+   "id": "78045",
+   "title": "The happiness of Hazelbrook",
+   "author": "Charlotte Grace O'Brien",
+   "slug": "the-happiness-of-hazelbrook",
+   "slug_author": "charlotte-grace-obrien"
+  },
+  {
+   "id": "78046",
+   "title": "Joan and Co.",
+   "author": "Frederick Orin Bartlett",
+   "slug": "joan-and-co",
+   "slug_author": "frederick-orin-bartlett"
+  },
+  {
+   "id": "78055",
+   "title": "The white rain came",
+   "author": "Jr. Sam Merwin",
+   "slug": "the-white-rain-came",
+   "slug_author": "jr-sam-merwin"
+  },
+  {
+   "id": "78067",
+   "title": "Joe Strong and his wings of steel",
+   "author": "Vance Barnum",
+   "slug": "joe-strong-and-his-wings-of-steel",
+   "slug_author": "vance-barnum"
+  },
+  {
+   "id": "78084",
+   "title": "The mysterious Mr. Quin",
+   "author": "Agatha Christie",
+   "slug": "the-mysterious-mr-quin",
+   "slug_author": "agatha-christie"
+  },
+  {
+   "id": "78087",
+   "title": "The black pearl",
+   "author": "Marie Lion",
+   "slug": "the-black-pearl",
+   "slug_author": "marie-lion"
+  },
+  {
+   "id": "78091",
+   "title": "Records of Captain Clapperton's last expedition to Africa, Vol. 1 (of 2)",
+   "author": "Richard Lander",
+   "slug": "records-of-captain-clappertons-last-expedition-to-africa-vol",
+   "slug_author": "richard-lander"
+  },
+  {
+   "id": "78092",
+   "title": "Records of Captain Clapperton's last expedition to Africa, Vol. 2 (of 2)",
+   "author": "Richard Lander",
+   "slug": "records-of-captain-clappertons-last-expedition-to-africa-vol",
+   "slug_author": "richard-lander"
+  },
+  {
+   "id": "78094",
+   "title": "The haunting hand",
+   "author": "Walter Adolphe Roberts",
+   "slug": "the-haunting-hand",
+   "slug_author": "walter-adolphe-roberts"
+  },
+  {
+   "id": "78102",
+   "title": "The wheel of earth",
+   "author": "Helga Sandburg",
+   "slug": "the-wheel-of-earth",
+   "slug_author": "helga-sandburg"
+  },
+  {
+   "id": "78103",
+   "title": "The trouble at Pinelands",
+   "author": "Ernest M. Poate",
+   "slug": "the-trouble-at-pinelands",
+   "slug_author": "ernest-m-poate"
+  },
+  {
+   "id": "78105",
+   "title": "Tales grotesque and curious",
+   "author": "Ry\u016bnosuke Akutagawa",
+   "slug": "tales-grotesque-and-curious",
+   "slug_author": "rynosuke-akutagawa"
+  },
+  {
+   "id": "78106",
+   "title": "Things near & far",
+   "author": "Arthur Machen",
+   "slug": "things-near-far",
+   "slug_author": "arthur-machen"
+  },
+  {
+   "id": "78118",
+   "title": "Barry Locke, half-back",
+   "author": "Ralph Henry Barbour",
+   "slug": "barry-locke-halfback",
+   "slug_author": "ralph-henry-barbour"
+  },
+  {
+   "id": "78120",
+   "title": "The marvellous land of Snergs",
+   "author": "E. A. Wyke-Smith",
+   "slug": "the-marvellous-land-of-snergs",
+   "slug_author": "e-a-wykesmith"
+  },
+  {
+   "id": "78124",
+   "title": "1066 and all that",
+   "author": "Walter Carruthers Sellar",
+   "slug": "1066-and-all-that",
+   "slug_author": "walter-carruthers-sellar"
+  },
+  {
+   "id": "7855",
+   "title": "The Vision of Desire",
+   "author": "Margaret Pedler",
+   "slug": "the-vision-of-desire",
+   "slug_author": "margaret-pedler"
+  },
+  {
+   "id": "786",
+   "title": "Hard Times",
+   "author": "Charles Dickens",
+   "slug": "hard-times",
+   "slug_author": "charles-dickens"
+  },
+  {
+   "id": "7895",
+   "title": "A Terrible Temptation: A Story of To-Day",
+   "author": "Charles Reade",
+   "slug": "a-terrible-temptation-a-story-of-today",
+   "slug_author": "charles-reade"
+  },
+  {
+   "id": "79087",
+   "title": "The day the world ended",
+   "author": "Sax Rohmer",
+   "slug": "the-day-the-world-ended",
+   "slug_author": "sax-rohmer"
+  },
+  {
+   "id": "815",
+   "title": "Democracy in America \u2014 Volume 1",
+   "author": "Alexis de Tocqueville",
+   "slug": "democracy-in-america-volume-1",
+   "slug_author": "alexis-de-tocqueville"
+  },
+  {
+   "id": "816",
+   "title": "Democracy in America \u2014 Volume 2",
+   "author": "Alexis de Tocqueville",
+   "slug": "democracy-in-america-volume-2",
+   "slug_author": "alexis-de-tocqueville"
+  },
+  {
+   "id": "829",
+   "title": "Gulliver's Travels into Several Remote Nations of the World",
+   "author": "Jonathan Swift",
+   "slug": "gullivers-travels-into-several-remote-nations-of-the-world",
+   "slug_author": "jonathan-swift"
+  },
+  {
+   "id": "83",
+   "title": "From the Earth to the moon; and, round the moon",
+   "author": "Jules Verne",
+   "slug": "from-the-earth-to-the-moon-and-round-the-moon",
+   "slug_author": "jules-verne"
+  },
+  {
+   "id": "831",
+   "title": "Four Arthurian Romances",
+   "author": "active 12th century de Troyes Chr\u00e9tien",
+   "slug": "four-arthurian-romances",
+   "slug_author": "active-12th-century-de-troyes-chrtien"
+  },
+  {
+   "id": "834",
+   "title": "The Memoirs of Sherlock Holmes",
+   "author": "Arthur Conan Doyle",
+   "slug": "the-memoirs-of-sherlock-holmes",
+   "slug_author": "arthur-conan-doyle"
+  },
+  {
+   "id": "84",
+   "title": "Frankenstein; or, the modern prometheus",
+   "author": "Mary Wollstonecraft Shelley",
+   "slug": "frankenstein-or-the-modern-prometheus",
+   "slug_author": "mary-wollstonecraft-shelley"
+  },
+  {
+   "id": "8438",
+   "title": "The Nicomachean ethics of Aristotle",
+   "author": "Aristotle",
+   "slug": "the-nicomachean-ethics-of-aristotle",
+   "slug_author": "aristotle"
+  },
+  {
+   "id": "8486",
+   "title": "Ghost Stories of an Antiquary",
+   "author": "M. R. James",
+   "slug": "ghost-stories-of-an-antiquary",
+   "slug_author": "m-r-james"
+  },
+  {
+   "id": "8492",
+   "title": "The King in Yellow",
+   "author": "Robert W. Chambers",
+   "slug": "the-king-in-yellow",
+   "slug_author": "robert-w-chambers"
+  },
+  {
+   "id": "851",
+   "title": "Narrative of the Captivity and Restoration of Mrs. Mary Rowlandson",
+   "author": "Mary White Rowlandson",
+   "slug": "narrative-of-the-captivity-and-restoration-of-mrs-mary-rowla",
+   "slug_author": "mary-white-rowlandson"
+  },
+  {
+   "id": "86",
+   "title": "A Connecticut Yankee in King Arthur's Court",
+   "author": "Mark Twain",
+   "slug": "a-connecticut-yankee-in-king-arthurs-court",
+   "slug_author": "mark-twain"
+  },
+  {
+   "id": "863",
+   "title": "The Mysterious Affair at Styles",
+   "author": "Agatha Christie",
+   "slug": "the-mysterious-affair-at-styles",
+   "slug_author": "agatha-christie"
+  },
+  {
+   "id": "8883",
+   "title": "A Love Story",
+   "author": "William Harvey Christie",
+   "slug": "a-love-story",
+   "slug_author": "william-harvey-christie"
+  },
+  {
+   "id": "8954",
+   "title": "Lady Audley's Secret",
+   "author": "M. E. Braddon",
+   "slug": "lady-audleys-secret",
+   "slug_author": "m-e-braddon"
+  },
+  {
+   "id": "902",
+   "title": "The Happy Prince, and Other Tales",
+   "author": "Oscar Wilde",
+   "slug": "the-happy-prince-and-other-tales",
+   "slug_author": "oscar-wilde"
+  },
+  {
+   "id": "910",
+   "title": "White Fang",
+   "author": "Jack London",
+   "slug": "white-fang",
+   "slug_author": "jack-london"
+  },
+  {
+   "id": "9473",
+   "title": "The Knights of the Cross, or, Krzyzacy: Historical Romance",
+   "author": "Henryk Sienkiewicz",
+   "slug": "the-knights-of-the-cross-or-krzyzacy-historical-romance",
+   "slug_author": "henryk-sienkiewicz"
+  },
+  {
+   "id": "9662",
+   "title": "An Enquiry Concerning Human Understanding",
+   "author": "David Hume",
+   "slug": "an-enquiry-concerning-human-understanding",
+   "slug_author": "david-hume"
+  },
+  {
+   "id": "974",
+   "title": "The Secret Agent: A Simple Tale",
+   "author": "Joseph Conrad",
+   "slug": "the-secret-agent-a-simple-tale",
+   "slug_author": "joseph-conrad"
+  },
+  {
+   "id": "9774",
+   "title": "Alice, or the Mysteries \u2014 Complete",
+   "author": "Baron Edward Bulwer Lytton Lytton",
+   "slug": "alice-or-the-mysteries-complete",
+   "slug_author": "baron-edward-bulwer-lytton-lytton"
+  },
+  {
+   "id": "9904",
+   "title": "The History of Pendennis, Volume 2 / His Fortunes and Misfortunes, His Friends and His Greatest Enemy",
+   "author": "William Makepeace Thackeray",
+   "slug": "the-history-of-pendennis-volume-2-his-fortunes-and-misfortun",
+   "slug_author": "william-makepeace-thackeray"
+  },
+  {
+   "id": "9911",
+   "title": "The Torrents of Spring",
+   "author": "Ivan Sergeevich Turgenev",
+   "slug": "the-torrents-of-spring",
+   "slug_author": "ivan-sergeevich-turgenev"
+  }
+ ]
+}

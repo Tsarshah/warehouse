@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Warehouse</title>
+<style>
+:root{--bg:#0b0e13;--panel:#141a23;--text:#d8dee9;--dim:#6b7686;--ok:#3fb950;--bad:#f85149;--warn:#d29922;--accent:#58a6ff;--line:#232b38}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--text);font:15px/1.6 -apple-system,"Segoe UI",Roboto,sans-serif}
+header{padding:14px 22px;border-bottom:1px solid var(--line);display:flex;align-items:baseline;gap:18px;flex-wrap:wrap;background:var(--panel)}
+header a{color:var(--accent);text-decoration:none;font-size:13px}
+main{max-width:1100px;margin:0 auto;padding:22px}
+input[type=search]{width:100%;padding:11px 14px;background:var(--panel);border:1px solid var(--line);border-radius:8px;color:var(--text);font-size:15px;outline:none}
+input[type=search]:focus{border-color:var(--accent)}
+.count{color:var(--dim);margin:12px 0}
+.books{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:8px;margin-top:8px}
+.book{display:block;background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:10px 14px;text-decoration:none;color:var(--text)}
+.book:hover{border-color:var(--accent)}
+.book .t{font-weight:600}
+.book .a{color:var(--dim);font-size:13px}
+.badge{font-size:11px;color:var(--warn);float:right}
+h1{font-size:22px;margin:6px 0 2px}
+.by{color:var(--dim);margin-bottom:14px}
+nav.toc{background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:12px 18px;margin-bottom:20px;columns:2;column-gap:30px}
+nav.toc a{display:block;color:var(--accent);text-decoration:none;font-size:13px;padding:2px 0}
+pre.text{white-space:pre-wrap;word-wrap:break-word;font-family:Georgia,serif;font-size:17px;line-height:1.75;margin:0}
+h2.ch{font-size:19px;border-bottom:1px solid var(--line);padding-bottom:6px;margin-top:34px;scroll-margin-top:20px}
+#status{color:var(--dim)}
+.spin{color:var(--accent)}
+@media(max-width:700px){nav.toc{columns:1}}
+</style>
+</head>
+<body>
+<header>
+  <strong>The Warehouse</strong>
+  <a href="#/">browse</a>
+  <a href="https://tsarshah.github.io/arena/">arena</a>
+  <a href="https://tsarshah.github.io/austen-shelf/">austen shelf</a>
+</header>
+<main id="app"><div id="status">loading index…</div></main>
+<script>
+"use strict";
+// Client-side EPUB reader: hand-written ZIP central-directory parser +
+// browser-native DecompressionStream for raw deflate. Book bytes are NEVER
+// injected as markup: everything lands via textContent.
+const app = document.getElementById("app");
+let IDX = null;
+
+async function loadIndex(){
+  const r = await fetch("index.json");
+  IDX = await r.json();
+}
+
+function escToEl(el, s){ el.textContent = s; } // deliberately trivial: only path is textContent
+
+function renderBrowse(filter){
+  app.innerHTML = "";
+  const box = document.createElement("input");
+  box.type = "search"; box.placeholder = "search 812 books by title or author…";
+  box.value = filter || "";
+  app.appendChild(box);
+  const list = document.createElement("div"); app.appendChild(list);
+  function draw(){
+    const q = box.value.trim().toLowerCase();
+    const books = IDX.books.filter(b => !q || b.slug.includes(q) || (b.author||"").toLowerCase().includes(q));
+    list.innerHTML = "";
+    const c = document.createElement("div"); c.className = "count";
+    c.textContent = books.length + " of " + IDX.books.length + " books" + (IDX.unreadable && IDX.unreadable.length ? " · " + IDX.unreadable.length + " unreadable files excluded" : "");
+    list.appendChild(c);
+    const g = document.createElement("div"); g.className = "books"; list.appendChild(g);
+    for (const b of books.slice(0, 300)){
+      const a = document.createElement("a"); a.className = "book"; a.href = "#/read/" + b.id;
+      const t = document.createElement("div"); t.className = "t"; t.textContent = b.title;
+      const au = document.createElement("div"); au.className = "a"; au.textContent = b.author || "unknown author";
+      a.appendChild(t); a.appendChild(au); g.appendChild(a);
+    }
+    if (books.length > 300){
+      const more = document.createElement("div"); more.className = "count";
+      more.textContent = "showing first 300, keep typing to narrow";
+      list.appendChild(more);
+    }
+  }
+  box.addEventListener("input", draw);
+  draw();
+  box.focus(); box.setSelectionRange(box.value.length, box.value.length);
+}
+
+// ---- ZIP ----
+const td = new TextDecoder("utf-8");
+function u16(dv,o){ return dv.getUint16(o,true); }
+function u32(dv,o){ return dv.getUint32(o,true); }
+async function unzip(buf){
+  const dv = new DataView(buf);
+  let eocd = -1;
+  for (let o = buf.byteLength - 22; o >= Math.max(0, buf.byteLength - 66000); o--){
+    if (dv.getUint32(o,true) === 0x06054b50){ eocd = o; break; }
+  }
+  if (eocd < 0) throw new Error("not a zip");
+  const count = u16(dv, eocd+10);
+  let p = u32(dv, eocd+16);
+  const files = [];
+  for (let i=0;i<count;i++){
+    if (u32(dv,p) !== 0x02014b50) break;
+    const method = u16(dv,p+10), csize = u32(dv,p+20);
+    const nlen = u16(dv,p+28), elen = u16(dv,p+30), clen = u16(dv,p+32);
+    const lho = u32(dv,p+42);
+    const name = td.decode(new Uint8Array(buf, p+46, nlen));
+    const lnlen = u16(dv,lho+26), lelen = u16(dv,lho+28);
+    const dataAt = lho + 30 + lnlen + lelen;
+    files.push({name, method, csize, dataAt});
+    p += 46 + nlen + elen + clen;
+  }
+  async function read(nameWant){
+    const f = files.find(x => x.name === nameWant);
+    if (!f) return null;
+    const raw = new Uint8Array(buf, f.dataAt, f.csize);
+    if (f.method === 0) return raw;
+    const ds = new DecompressionStream("deflate-raw");
+    const stream = new Blob([raw]).stream().pipeThrough(ds);
+    return new Uint8Array(await new Response(stream).arrayBuffer());
+  }
+  return {names: files.map(f=>f.name), read};
+}
+
+function parseXml(u8){
+  return new DOMParser().parseFromString(td.decode(u8), "application/xhtml+xml");
+}
+
+async function renderRead(id){
+  app.innerHTML = "";
+  const st = document.createElement("div"); st.id = "status";
+  st.innerHTML = '<span class="spin">opening book ' + id + "…</span>"; // static string only
+  app.appendChild(st);
+  if (!/^[0-9]{1,6}$/.test(id)) { st.textContent = "bad id"; return; }
+  let buf;
+  try {
+    const r = await fetch("epubs/" + id + ".epub");
+    if (!r.ok) throw new Error("http " + r.status);
+    buf = await r.arrayBuffer();
+  } catch(e){ st.textContent = "book " + id + " not available here"; return; }
+  const meta = IDX.books.find(b => b.id === id);
+  const zip = await unzip(buf);
+  const cont = zip.names.includes("META-INF/container.xml") ? parseXml(await zip.read("META-INF/container.xml")) : null;
+  let opfPath = cont ? cont.getElementsByTagName("rootfile")[0].getAttribute("full-path") : null;
+  if (!opfPath) opfPath = zip.names.find(n=>n.endsWith(".opf"));
+  if (!opfPath) { st.textContent = "no package document in this epub"; return; }
+  const opf = parseXml(await zip.read(opfPath));
+  const base = opfPath.includes("/") ? opfPath.slice(0, opfPath.lastIndexOf("/")+1) : "";
+  const manifest = {};
+  for (const it of opf.getElementsByTagName("item")){
+    manifest[it.getAttribute("id")] = {href: it.getAttribute("href"), type: it.getAttribute("media-type")||""};
+  }
+  const spine = [];
+  for (const it of opf.getElementsByTagName("itemref")){
+    const m = manifest[it.getAttribute("idref")];
+    if (m && /xhtml|html/.test(m.type)) spine.push(base + decodeURIComponent(m.href));
+  }
+  if (!spine.length){
+    for (const n of zip.names.filter(n=>/\.x?html?$/i.test(n))) spine.push(n);
+    spine.sort();
+  }
+  app.innerHTML = "";
+  const h1 = document.createElement("h1");
+  h1.textContent = meta ? meta.title : "book " + id;
+  const by = document.createElement("div"); by.className = "by";
+  by.textContent = (meta ? meta.author : "") + " · " + spine.length + " parts · pg " + id;
+  const toc = document.createElement("nav"); toc.className = "toc";
+  const body = document.createElement("div");
+  app.appendChild(h1); app.appendChild(by); app.appendChild(toc); app.appendChild(body);
+  let chapterNum = 0;
+  for (const part of spine){
+    let doc;
+    try { doc = parseXml(await zip.read(part)); } catch(e){ continue; }
+    const hs = doc.querySelectorAll("h1, h2");
+    let title = hs.length ? hs[0].textContent.trim() : "";
+    if (!title){ const tt = doc.querySelector("title"); title = tt ? tt.textContent.trim() : ""; }
+    if (!title || title.length > 120) title = "part " + (++chapterNum);
+    const anchor = "c" + (chapterNum+1);
+    const a = document.createElement("a"); a.href = "#" + anchor;
+    a.textContent = title; toc.appendChild(a);
+    const h2 = document.createElement("h2"); h2.className = "ch"; h2.id = anchor;
+    h2.textContent = title; body.appendChild(h2);
+    const pre = document.createElement("pre"); pre.className = "text";
+    const paras = doc.querySelectorAll("p, h1, h2, h3, blockquote, li");
+    const chunks = [];
+    if (paras.length){
+      for (const p of paras){ const t = p.textContent.replace(/\s+/g," ").trim(); if (t) chunks.push(t); }
+    } else {
+      const b = doc.body || doc.documentElement;
+      chunks.push((b.textContent||"").replace(/[ \t]+/g," ").replace(/\n\s*\n\s*/g,"\n\n").trim());
+    }
+    pre.textContent = chunks.join("\n\n");
+    body.appendChild(pre);
+  }
+}
+
+function route(){
+  const h = location.hash || "#/";
+  const m = h.match(/^#\/read\/([0-9]{1,6})$/);
+  if (m) renderRead(m[1]);
+  else renderBrowse(h.slice(2));
+}
+window.addEventListener("hashchange", route);
+loadIndex().then(route).catch(e => { document.getElementById("status").textContent = "index failed: " + e; });
+</script>
+</body>
+</html>
