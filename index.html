@@ -39,8 +39,42 @@ h2.ch{font-size:19px;border-bottom:1px solid var(--line);padding-bottom:6px;marg
   <a href="https://tsarshah.github.io/austen-shelf/">austen shelf</a>
 </header>
 <main id="app"><div id="status">loading index…</div></main>
+<footer style="max-width:1100px;margin:30px auto 40px;padding:0 22px;color:var(--dim);border-top:1px solid var(--line);padding-top:16px">
+  <div id="heartbeat">library heartbeat: …</div>
+  <p>Ask the library something. Pick a command, it opens a prefilled GitHub issue; a nightly-side librarian answers in the thread from the real catalog.</p>
+  <form id="askform" style="display:flex;gap:8px;flex-wrap:wrap;margin-top:8px">
+    <select id="askcmd" style="padding:9px;background:var(--panel);color:var(--text);border:1px solid var(--line);border-radius:8px">
+      <option value="search">search the 812</option>
+      <option value="find">find one title</option>
+      <option value="status">library status</option>
+    </select>
+    <input id="askarg" placeholder="e.g. sherlock" style="flex:1;min-width:180px;padding:9px 12px;background:var(--panel);color:var(--text);border:1px solid var(--line);border-radius:8px">
+    <button type="submit" style="padding:9px 16px;background:var(--accent);color:#0b0e13;border:0;border-radius:8px;font-weight:600;cursor:pointer">ask</button>
+  </form>
+  <p id="askhint" style="font-size:13px"></p>
+</footer>
 <script>
 "use strict";
+// heartbeat + ask-bus
+async function heartbeat(){
+  try {
+    const s = await (await fetch("stats.json?ts=" + Date.now())).json();
+    const el = document.getElementById("heartbeat");
+    el.textContent = "library heartbeat: " + s.books + " volumes · " + s.indexed + " catalogued · " + s.authors + " authors · " + s.shelf + " shelf items · last beat " + s.updated + " UTC";
+  } catch(e){ document.getElementById("heartbeat").textContent = "library heartbeat: not reporting yet"; }
+}
+heartbeat(); setInterval(heartbeat, 60000);
+document.getElementById("askform").addEventListener("submit", function(ev){
+  ev.preventDefault();
+  const cmd = document.getElementById("askcmd").value;
+  const arg = document.getElementById("askarg").value.trim().replace(/[\r\n]/g," ").slice(0,120);
+  const line = "command: " + cmd + (cmd === "status" ? "" : " " + (arg || "SUGGEST_WORD"));
+  const u = "https://github.com/Tsarshah/warehouse/issues/new"
+    + "?title=" + encodeURIComponent("Ask: " + line.slice(9, 60))
+    + "&body=" + encodeURIComponent(line + "\n\n(asked from the warehouse page. Do not put anything sensitive here.)");
+  document.getElementById("askhint").textContent = "opening GitHub to file the ask…";
+  location.href = u;
+});
 // Client-side EPUB reader: hand-written ZIP central-directory parser +
 // browser-native DecompressionStream for raw deflate. Book bytes are NEVER
 // injected as markup: everything lands via textContent.
